@@ -1,0 +1,7002 @@
+[
+    {
+        "TransactionID": 0,
+        "CustomerID": 2869,
+        "TransactionDate": "2023-01-01 00:00:00",
+        "Amount": 242.74,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 1,
+        "CustomerID": 1424,
+        "TransactionDate": "2023-01-01 01:00:00",
+        "Amount": 132.46,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 2,
+        "CustomerID": 1948,
+        "TransactionDate": "2023-01-01 02:00:00",
+        "Amount": 66.99,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 3,
+        "CustomerID": 3414,
+        "TransactionDate": "2023-01-01 03:00:00",
+        "Amount": 412.16,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 4,
+        "CustomerID": 1436,
+        "TransactionDate": "2023-01-01 04:00:00",
+        "Amount": 310.24,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 5,
+        "CustomerID": 3096,
+        "TransactionDate": "2023-01-01 05:00:00",
+        "Amount": 212.23,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 6,
+        "CustomerID": 1834,
+        "TransactionDate": "2023-01-01 06:00:00",
+        "Amount": 8.79,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 7,
+        "CustomerID": 2440,
+        "TransactionDate": "2023-01-01 07:00:00",
+        "Amount": 417.0,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 8,
+        "CustomerID": 3043,
+        "TransactionDate": "2023-01-01 08:00:00",
+        "Amount": 324.04,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 9,
+        "CustomerID": 1377,
+        "TransactionDate": "2023-01-01 09:00:00",
+        "Amount": 440.43,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 10,
+        "CustomerID": 3701,
+        "TransactionDate": "2023-01-01 10:00:00",
+        "Amount": 118.5,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 11,
+        "CustomerID": 1631,
+        "TransactionDate": "2023-01-01 11:00:00",
+        "Amount": 397.23,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 12,
+        "CustomerID": 3491,
+        "TransactionDate": "2023-01-01 12:00:00",
+        "Amount": 225.1,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 13,
+        "CustomerID": 4805,
+        "TransactionDate": "2023-01-01 13:00:00",
+        "Amount": 357.53,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 14,
+        "CustomerID": 2939,
+        "TransactionDate": "2023-01-01 14:00:00",
+        "Amount": 153.29,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 15,
+        "CustomerID": 2723,
+        "TransactionDate": "2023-01-01 15:00:00",
+        "Amount": 252.41,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 16,
+        "CustomerID": 2133,
+        "TransactionDate": "2023-01-01 16:00:00",
+        "Amount": 432.58,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 17,
+        "CustomerID": 2478,
+        "TransactionDate": "2023-01-01 17:00:00",
+        "Amount": 375.57,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 18,
+        "CustomerID": 1070,
+        "TransactionDate": "2023-01-01 18:00:00",
+        "Amount": 395.75,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 19,
+        "CustomerID": 2653,
+        "TransactionDate": "2023-01-01 19:00:00",
+        "Amount": 70.84,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 20,
+        "CustomerID": 3294,
+        "TransactionDate": "2023-01-01 20:00:00",
+        "Amount": 166.24,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 21,
+        "CustomerID": 3744,
+        "TransactionDate": "2023-01-01 21:00:00",
+        "Amount": 367.24,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 22,
+        "CustomerID": 3549,
+        "TransactionDate": "2023-01-01 22:00:00",
+        "Amount": 118.91,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 23,
+        "CustomerID": 1126,
+        "TransactionDate": "2023-01-01 23:00:00",
+        "Amount": 243.5,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 24,
+        "CustomerID": 2523,
+        "TransactionDate": "2023-01-02 00:00:00",
+        "Amount": 258.07,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 25,
+        "CustomerID": 1029,
+        "TransactionDate": "2023-01-02 01:00:00",
+        "Amount": 31.11,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 26,
+        "CustomerID": 3499,
+        "TransactionDate": "2023-01-02 02:00:00",
+        "Amount": 45.36,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 27,
+        "CustomerID": 3940,
+        "TransactionDate": "2023-01-02 03:00:00",
+        "Amount": 142.36,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 28,
+        "CustomerID": 3562,
+        "TransactionDate": "2023-01-02 04:00:00",
+        "Amount": 215.94,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 29,
+        "CustomerID": 1513,
+        "TransactionDate": "2023-01-02 05:00:00",
+        "Amount": 220.63,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 30,
+        "CustomerID": 3120,
+        "TransactionDate": "2023-01-02 06:00:00",
+        "Amount": 76.7,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 31,
+        "CustomerID": 3469,
+        "TransactionDate": "2023-01-02 07:00:00",
+        "Amount": 243.68,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 32,
+        "CustomerID": 2958,
+        "TransactionDate": "2023-01-02 08:00:00",
+        "Amount": 60.96,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 33,
+        "CustomerID": 1433,
+        "TransactionDate": "2023-01-02 09:00:00",
+        "Amount": 310.95,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 34,
+        "CustomerID": 4776,
+        "TransactionDate": "2023-01-02 10:00:00",
+        "Amount": 431.37,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 35,
+        "CustomerID": 1025,
+        "TransactionDate": "2023-01-02 11:00:00",
+        "Amount": 436.5,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 36,
+        "CustomerID": 4185,
+        "TransactionDate": "2023-01-02 12:00:00",
+        "Amount": 57.03,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 37,
+        "CustomerID": 3288,
+        "TransactionDate": "2023-01-02 13:00:00",
+        "Amount": 358.91,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 38,
+        "CustomerID": 2262,
+        "TransactionDate": "2023-01-02 14:00:00",
+        "Amount": 452.82,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 39,
+        "CustomerID": 3699,
+        "TransactionDate": "2023-01-02 15:00:00",
+        "Amount": 309.45,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 40,
+        "CustomerID": 4613,
+        "TransactionDate": "2023-01-02 16:00:00",
+        "Amount": 101.53,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 41,
+        "CustomerID": 4548,
+        "TransactionDate": "2023-01-02 17:00:00",
+        "Amount": 43.09,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 42,
+        "CustomerID": 1295,
+        "TransactionDate": "2023-01-02 18:00:00",
+        "Amount": 179.96,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 43,
+        "CustomerID": 4818,
+        "TransactionDate": "2023-01-02 19:00:00",
+        "Amount": 240.85,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 44,
+        "CustomerID": 3893,
+        "TransactionDate": "2023-01-02 20:00:00",
+        "Amount": 110.33,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 45,
+        "CustomerID": 2865,
+        "TransactionDate": "2023-01-02 21:00:00",
+        "Amount": 37.46,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 46,
+        "CustomerID": 2349,
+        "TransactionDate": "2023-01-02 22:00:00",
+        "Amount": 230.16,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 47,
+        "CustomerID": 2887,
+        "TransactionDate": "2023-01-02 23:00:00",
+        "Amount": 173.75,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 48,
+        "CustomerID": 2572,
+        "TransactionDate": "2023-01-03 00:00:00",
+        "Amount": 458.57,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 49,
+        "CustomerID": 1682,
+        "TransactionDate": "2023-01-03 01:00:00",
+        "Amount": 166.5,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 50,
+        "CustomerID": 1906,
+        "TransactionDate": "2023-01-03 02:00:00",
+        "Amount": 84.69,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 51,
+        "CustomerID": 2972,
+        "TransactionDate": "2023-01-03 03:00:00",
+        "Amount": 236.3,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 52,
+        "CustomerID": 2565,
+        "TransactionDate": "2023-01-03 04:00:00",
+        "Amount": 349.27,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 53,
+        "CustomerID": 3851,
+        "TransactionDate": "2023-01-03 05:00:00",
+        "Amount": 81.77,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 54,
+        "CustomerID": 3127,
+        "TransactionDate": "2023-01-03 06:00:00",
+        "Amount": 326.93,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 55,
+        "CustomerID": 3668,
+        "TransactionDate": "2023-01-03 07:00:00",
+        "Amount": 315.36,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 56,
+        "CustomerID": 3682,
+        "TransactionDate": "2023-01-03 08:00:00",
+        "Amount": 418.02,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 57,
+        "CustomerID": 2667,
+        "TransactionDate": "2023-01-03 09:00:00",
+        "Amount": 193.45,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 58,
+        "CustomerID": 2770,
+        "TransactionDate": "2023-01-03 10:00:00",
+        "Amount": 270.72,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 59,
+        "CustomerID": 4069,
+        "TransactionDate": "2023-01-03 11:00:00",
+        "Amount": 409.79,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 60,
+        "CustomerID": 2940,
+        "TransactionDate": "2023-01-03 12:00:00",
+        "Amount": 308.05,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 61,
+        "CustomerID": 1493,
+        "TransactionDate": "2023-01-03 13:00:00",
+        "Amount": 265.84,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 62,
+        "CustomerID": 1991,
+        "TransactionDate": "2023-01-03 14:00:00",
+        "Amount": 258.2,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 63,
+        "CustomerID": 2754,
+        "TransactionDate": "2023-01-03 15:00:00",
+        "Amount": 234.86,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 64,
+        "CustomerID": 2641,
+        "TransactionDate": "2023-01-03 16:00:00",
+        "Amount": 203.18,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 65,
+        "CustomerID": 3877,
+        "TransactionDate": "2023-01-03 17:00:00",
+        "Amount": 278.76,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 66,
+        "CustomerID": 3342,
+        "TransactionDate": "2023-01-03 18:00:00",
+        "Amount": 76.28,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 67,
+        "CustomerID": 3435,
+        "TransactionDate": "2023-01-03 19:00:00",
+        "Amount": 356.9,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 68,
+        "CustomerID": 2572,
+        "TransactionDate": "2023-01-03 20:00:00",
+        "Amount": 17.79,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 69,
+        "CustomerID": 1551,
+        "TransactionDate": "2023-01-03 21:00:00",
+        "Amount": 220.52,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 70,
+        "CustomerID": 3356,
+        "TransactionDate": "2023-01-03 22:00:00",
+        "Amount": 150.85,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 71,
+        "CustomerID": 3846,
+        "TransactionDate": "2023-01-03 23:00:00",
+        "Amount": 261.39,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 72,
+        "CustomerID": 1554,
+        "TransactionDate": "2023-01-04 00:00:00",
+        "Amount": 146.02,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 73,
+        "CustomerID": 1756,
+        "TransactionDate": "2023-01-04 01:00:00",
+        "Amount": 118.3,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 74,
+        "CustomerID": 1653,
+        "TransactionDate": "2023-01-04 02:00:00",
+        "Amount": 321.5,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 75,
+        "CustomerID": 1281,
+        "TransactionDate": "2023-01-04 03:00:00",
+        "Amount": 128.61,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 76,
+        "CustomerID": 3448,
+        "TransactionDate": "2023-01-04 04:00:00",
+        "Amount": 384.21,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 77,
+        "CustomerID": 4952,
+        "TransactionDate": "2023-01-04 05:00:00",
+        "Amount": 331.94,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 78,
+        "CustomerID": 2467,
+        "TransactionDate": "2023-01-04 06:00:00",
+        "Amount": 67.29,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 79,
+        "CustomerID": 2928,
+        "TransactionDate": "2023-01-04 07:00:00",
+        "Amount": 490.08,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 80,
+        "CustomerID": 1090,
+        "TransactionDate": "2023-01-04 08:00:00",
+        "Amount": 40.9,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 81,
+        "CustomerID": 1781,
+        "TransactionDate": "2023-01-04 09:00:00",
+        "Amount": 438.71,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 82,
+        "CustomerID": 2400,
+        "TransactionDate": "2023-01-04 10:00:00",
+        "Amount": 483.87,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 83,
+        "CustomerID": 1576,
+        "TransactionDate": "2023-01-04 11:00:00",
+        "Amount": 469.11,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 84,
+        "CustomerID": 4237,
+        "TransactionDate": "2023-01-04 12:00:00",
+        "Amount": 350.98,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 85,
+        "CustomerID": 1657,
+        "TransactionDate": "2023-01-04 13:00:00",
+        "Amount": 126.74,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 86,
+        "CustomerID": 3739,
+        "TransactionDate": "2023-01-04 14:00:00",
+        "Amount": 224.64,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 87,
+        "CustomerID": 2698,
+        "TransactionDate": "2023-01-04 15:00:00",
+        "Amount": 462.49,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 88,
+        "CustomerID": 3869,
+        "TransactionDate": "2023-01-04 16:00:00",
+        "Amount": 248.49,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 89,
+        "CustomerID": 2608,
+        "TransactionDate": "2023-01-04 17:00:00",
+        "Amount": 310.15,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 90,
+        "CustomerID": 4387,
+        "TransactionDate": "2023-01-04 18:00:00",
+        "Amount": 43.82,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 91,
+        "CustomerID": 1609,
+        "TransactionDate": "2023-01-04 19:00:00",
+        "Amount": 61.53,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 92,
+        "CustomerID": 3828,
+        "TransactionDate": "2023-01-04 20:00:00",
+        "Amount": 93.47,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 93,
+        "CustomerID": 3561,
+        "TransactionDate": "2023-01-04 21:00:00",
+        "Amount": 345.49,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 94,
+        "CustomerID": 4675,
+        "TransactionDate": "2023-01-04 22:00:00",
+        "Amount": 336.36,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 95,
+        "CustomerID": 2951,
+        "TransactionDate": "2023-01-04 23:00:00",
+        "Amount": 164.64,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 96,
+        "CustomerID": 3601,
+        "TransactionDate": "2023-01-05 00:00:00",
+        "Amount": 27.77,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 97,
+        "CustomerID": 4174,
+        "TransactionDate": "2023-01-05 01:00:00",
+        "Amount": 15.98,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 98,
+        "CustomerID": 2027,
+        "TransactionDate": "2023-01-05 02:00:00",
+        "Amount": 401.55,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 99,
+        "CustomerID": 2390,
+        "TransactionDate": "2023-01-05 03:00:00",
+        "Amount": 316.88,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 100,
+        "CustomerID": 1545,
+        "TransactionDate": "2023-01-05 04:00:00",
+        "Amount": 470.23,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 101,
+        "CustomerID": 2837,
+        "TransactionDate": "2023-01-05 05:00:00",
+        "Amount": 446.45,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 102,
+        "CustomerID": 3344,
+        "TransactionDate": "2023-01-05 06:00:00",
+        "Amount": 451.54,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 103,
+        "CustomerID": 1020,
+        "TransactionDate": "2023-01-05 07:00:00",
+        "Amount": 183.58,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 104,
+        "CustomerID": 1509,
+        "TransactionDate": "2023-01-05 08:00:00",
+        "Amount": 30.9,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 105,
+        "CustomerID": 2415,
+        "TransactionDate": "2023-01-05 09:00:00",
+        "Amount": 349.08,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 106,
+        "CustomerID": 3808,
+        "TransactionDate": "2023-01-05 10:00:00",
+        "Amount": 369.85,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 107,
+        "CustomerID": 1493,
+        "TransactionDate": "2023-01-05 11:00:00",
+        "Amount": 174.67,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 108,
+        "CustomerID": 2492,
+        "TransactionDate": "2023-01-05 12:00:00",
+        "Amount": 321.7,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 109,
+        "CustomerID": 1528,
+        "TransactionDate": "2023-01-05 13:00:00",
+        "Amount": 493.98,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 110,
+        "CustomerID": 3331,
+        "TransactionDate": "2023-01-05 14:00:00",
+        "Amount": 481.23,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 111,
+        "CustomerID": 3446,
+        "TransactionDate": "2023-01-05 15:00:00",
+        "Amount": 190.99,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 112,
+        "CustomerID": 4669,
+        "TransactionDate": "2023-01-05 16:00:00",
+        "Amount": 188.38,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 113,
+        "CustomerID": 1710,
+        "TransactionDate": "2023-01-05 17:00:00",
+        "Amount": 393.36,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 114,
+        "CustomerID": 4881,
+        "TransactionDate": "2023-01-05 18:00:00",
+        "Amount": 295.16,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 115,
+        "CustomerID": 1352,
+        "TransactionDate": "2023-01-05 19:00:00",
+        "Amount": 194.67,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 116,
+        "CustomerID": 1306,
+        "TransactionDate": "2023-01-05 20:00:00",
+        "Amount": 340.69,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 117,
+        "CustomerID": 2507,
+        "TransactionDate": "2023-01-05 21:00:00",
+        "Amount": 150.44,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 118,
+        "CustomerID": 2387,
+        "TransactionDate": "2023-01-05 22:00:00",
+        "Amount": 18.55,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 119,
+        "CustomerID": 2527,
+        "TransactionDate": "2023-01-05 23:00:00",
+        "Amount": 463.1,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 120,
+        "CustomerID": 4339,
+        "TransactionDate": "2023-01-06 00:00:00",
+        "Amount": 84.99,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 121,
+        "CustomerID": 2948,
+        "TransactionDate": "2023-01-06 01:00:00",
+        "Amount": 357.16,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 122,
+        "CustomerID": 2236,
+        "TransactionDate": "2023-01-06 02:00:00",
+        "Amount": 143.88,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 123,
+        "CustomerID": 4713,
+        "TransactionDate": "2023-01-06 03:00:00",
+        "Amount": 155.54,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 124,
+        "CustomerID": 1648,
+        "TransactionDate": "2023-01-06 04:00:00",
+        "Amount": 317.01,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 125,
+        "CustomerID": 1944,
+        "TransactionDate": "2023-01-06 05:00:00",
+        "Amount": 239.19,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 126,
+        "CustomerID": 4817,
+        "TransactionDate": "2023-01-06 06:00:00",
+        "Amount": 373.43,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 127,
+        "CustomerID": 3782,
+        "TransactionDate": "2023-01-06 07:00:00",
+        "Amount": 499.24,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 128,
+        "CustomerID": 4228,
+        "TransactionDate": "2023-01-06 08:00:00",
+        "Amount": 474.67,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 129,
+        "CustomerID": 3237,
+        "TransactionDate": "2023-01-06 09:00:00",
+        "Amount": 305.79,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 130,
+        "CustomerID": 1467,
+        "TransactionDate": "2023-01-06 10:00:00",
+        "Amount": 89.84,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 131,
+        "CustomerID": 1797,
+        "TransactionDate": "2023-01-06 11:00:00",
+        "Amount": 359.78,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 132,
+        "CustomerID": 4074,
+        "TransactionDate": "2023-01-06 12:00:00",
+        "Amount": 182.07,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 133,
+        "CustomerID": 3471,
+        "TransactionDate": "2023-01-06 13:00:00",
+        "Amount": 226.31,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 134,
+        "CustomerID": 4981,
+        "TransactionDate": "2023-01-06 14:00:00",
+        "Amount": 429.78,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 135,
+        "CustomerID": 4381,
+        "TransactionDate": "2023-01-06 15:00:00",
+        "Amount": 350.55,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 136,
+        "CustomerID": 2306,
+        "TransactionDate": "2023-01-06 16:00:00",
+        "Amount": 340.14,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 137,
+        "CustomerID": 2241,
+        "TransactionDate": "2023-01-06 17:00:00",
+        "Amount": 422.07,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 138,
+        "CustomerID": 1964,
+        "TransactionDate": "2023-01-06 18:00:00",
+        "Amount": 102.39,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 139,
+        "CustomerID": 2463,
+        "TransactionDate": "2023-01-06 19:00:00",
+        "Amount": 54.81,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 140,
+        "CustomerID": 1758,
+        "TransactionDate": "2023-01-06 20:00:00",
+        "Amount": 76.17,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 141,
+        "CustomerID": 1729,
+        "TransactionDate": "2023-01-06 21:00:00",
+        "Amount": 112.11,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 142,
+        "CustomerID": 1559,
+        "TransactionDate": "2023-01-06 22:00:00",
+        "Amount": 485.61,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 143,
+        "CustomerID": 1535,
+        "TransactionDate": "2023-01-06 23:00:00",
+        "Amount": 365.49,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 144,
+        "CustomerID": 3382,
+        "TransactionDate": "2023-01-07 00:00:00",
+        "Amount": 225.55,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 145,
+        "CustomerID": 1429,
+        "TransactionDate": "2023-01-07 01:00:00",
+        "Amount": 346.63,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 146,
+        "CustomerID": 1149,
+        "TransactionDate": "2023-01-07 02:00:00",
+        "Amount": 420.65,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 147,
+        "CustomerID": 3062,
+        "TransactionDate": "2023-01-07 03:00:00",
+        "Amount": 79.28,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 148,
+        "CustomerID": 1576,
+        "TransactionDate": "2023-01-07 04:00:00",
+        "Amount": 304.32,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 149,
+        "CustomerID": 3039,
+        "TransactionDate": "2023-01-07 05:00:00",
+        "Amount": 134.57,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 150,
+        "CustomerID": 2689,
+        "TransactionDate": "2023-01-07 06:00:00",
+        "Amount": 463.64,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 151,
+        "CustomerID": 4305,
+        "TransactionDate": "2023-01-07 07:00:00",
+        "Amount": 187.82,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 152,
+        "CustomerID": 4351,
+        "TransactionDate": "2023-01-07 08:00:00",
+        "Amount": 83.27,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 153,
+        "CustomerID": 2939,
+        "TransactionDate": "2023-01-07 09:00:00",
+        "Amount": 219.02,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 154,
+        "CustomerID": 2500,
+        "TransactionDate": "2023-01-07 10:00:00",
+        "Amount": 280.37,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 155,
+        "CustomerID": 2541,
+        "TransactionDate": "2023-01-07 11:00:00",
+        "Amount": 366.28,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 156,
+        "CustomerID": 3816,
+        "TransactionDate": "2023-01-07 12:00:00",
+        "Amount": 232.48,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 157,
+        "CustomerID": 1195,
+        "TransactionDate": "2023-01-07 13:00:00",
+        "Amount": 465.14,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 158,
+        "CustomerID": 2831,
+        "TransactionDate": "2023-01-07 14:00:00",
+        "Amount": 164.93,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 159,
+        "CustomerID": 3061,
+        "TransactionDate": "2023-01-07 15:00:00",
+        "Amount": 489.45,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 160,
+        "CustomerID": 3525,
+        "TransactionDate": "2023-01-07 16:00:00",
+        "Amount": 373.17,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 161,
+        "CustomerID": 1558,
+        "TransactionDate": "2023-01-07 17:00:00",
+        "Amount": 378.28,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 162,
+        "CustomerID": 4811,
+        "TransactionDate": "2023-01-07 18:00:00",
+        "Amount": 97.29,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 163,
+        "CustomerID": 4614,
+        "TransactionDate": "2023-01-07 19:00:00",
+        "Amount": 220.98,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 164,
+        "CustomerID": 1926,
+        "TransactionDate": "2023-01-07 20:00:00",
+        "Amount": 398.86,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 165,
+        "CustomerID": 1529,
+        "TransactionDate": "2023-01-07 21:00:00",
+        "Amount": 103.7,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 166,
+        "CustomerID": 3780,
+        "TransactionDate": "2023-01-07 22:00:00",
+        "Amount": 129.73,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 167,
+        "CustomerID": 3076,
+        "TransactionDate": "2023-01-07 23:00:00",
+        "Amount": 101.77,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 168,
+        "CustomerID": 4682,
+        "TransactionDate": "2023-01-08 00:00:00",
+        "Amount": 320.73,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 169,
+        "CustomerID": 4509,
+        "TransactionDate": "2023-01-08 01:00:00",
+        "Amount": 76.78,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 170,
+        "CustomerID": 1115,
+        "TransactionDate": "2023-01-08 02:00:00",
+        "Amount": 205.43,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 171,
+        "CustomerID": 2018,
+        "TransactionDate": "2023-01-08 03:00:00",
+        "Amount": 223.7,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 172,
+        "CustomerID": 2483,
+        "TransactionDate": "2023-01-08 04:00:00",
+        "Amount": 85.36,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 173,
+        "CustomerID": 4091,
+        "TransactionDate": "2023-01-08 05:00:00",
+        "Amount": 162.01,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 174,
+        "CustomerID": 3948,
+        "TransactionDate": "2023-01-08 06:00:00",
+        "Amount": 317.2,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 175,
+        "CustomerID": 1211,
+        "TransactionDate": "2023-01-08 07:00:00",
+        "Amount": 256.4,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 176,
+        "CustomerID": 2405,
+        "TransactionDate": "2023-01-08 08:00:00",
+        "Amount": 250.0,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 177,
+        "CustomerID": 3718,
+        "TransactionDate": "2023-01-08 09:00:00",
+        "Amount": 497.96,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 178,
+        "CustomerID": 3475,
+        "TransactionDate": "2023-01-08 10:00:00",
+        "Amount": 473.16,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 179,
+        "CustomerID": 2860,
+        "TransactionDate": "2023-01-08 11:00:00",
+        "Amount": 65.7,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 180,
+        "CustomerID": 3491,
+        "TransactionDate": "2023-01-08 12:00:00",
+        "Amount": 282.6,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 181,
+        "CustomerID": 2677,
+        "TransactionDate": "2023-01-08 13:00:00",
+        "Amount": 284.21,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 182,
+        "CustomerID": 4881,
+        "TransactionDate": "2023-01-08 14:00:00",
+        "Amount": 51.5,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 183,
+        "CustomerID": 1366,
+        "TransactionDate": "2023-01-08 15:00:00",
+        "Amount": 404.72,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 184,
+        "CustomerID": 3982,
+        "TransactionDate": "2023-01-08 16:00:00",
+        "Amount": 14.49,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 185,
+        "CustomerID": 2147,
+        "TransactionDate": "2023-01-08 17:00:00",
+        "Amount": 298.59,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 186,
+        "CustomerID": 3287,
+        "TransactionDate": "2023-01-08 18:00:00",
+        "Amount": 479.36,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 187,
+        "CustomerID": 2357,
+        "TransactionDate": "2023-01-08 19:00:00",
+        "Amount": 351.55,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 188,
+        "CustomerID": 3402,
+        "TransactionDate": "2023-01-08 20:00:00",
+        "Amount": 288.49,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 189,
+        "CustomerID": 3189,
+        "TransactionDate": "2023-01-08 21:00:00",
+        "Amount": 498.75,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 190,
+        "CustomerID": 3710,
+        "TransactionDate": "2023-01-08 22:00:00",
+        "Amount": 151.38,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 191,
+        "CustomerID": 3833,
+        "TransactionDate": "2023-01-08 23:00:00",
+        "Amount": 85.27,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 192,
+        "CustomerID": 4632,
+        "TransactionDate": "2023-01-09 00:00:00",
+        "Amount": 407.72,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 193,
+        "CustomerID": 4044,
+        "TransactionDate": "2023-01-09 01:00:00",
+        "Amount": 133.52,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 194,
+        "CustomerID": 2541,
+        "TransactionDate": "2023-01-09 02:00:00",
+        "Amount": 263.26,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 195,
+        "CustomerID": 1153,
+        "TransactionDate": "2023-01-09 03:00:00",
+        "Amount": 83.74,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 196,
+        "CustomerID": 4220,
+        "TransactionDate": "2023-01-09 04:00:00",
+        "Amount": 198.76,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 197,
+        "CustomerID": 3438,
+        "TransactionDate": "2023-01-09 05:00:00",
+        "Amount": 147.19,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 198,
+        "CustomerID": 2515,
+        "TransactionDate": "2023-01-09 06:00:00",
+        "Amount": 182.6,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 199,
+        "CustomerID": 2470,
+        "TransactionDate": "2023-01-09 07:00:00",
+        "Amount": 68.26,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 200,
+        "CustomerID": 1597,
+        "TransactionDate": "2023-01-09 08:00:00",
+        "Amount": 267.65,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 201,
+        "CustomerID": 3926,
+        "TransactionDate": "2023-01-09 09:00:00",
+        "Amount": 58.56,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 202,
+        "CustomerID": 2178,
+        "TransactionDate": "2023-01-09 10:00:00",
+        "Amount": 263.34,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 203,
+        "CustomerID": 3488,
+        "TransactionDate": "2023-01-09 11:00:00",
+        "Amount": 494.45,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 204,
+        "CustomerID": 2094,
+        "TransactionDate": "2023-01-09 12:00:00",
+        "Amount": 60.64,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 205,
+        "CustomerID": 1587,
+        "TransactionDate": "2023-01-09 13:00:00",
+        "Amount": 243.66,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 206,
+        "CustomerID": 3907,
+        "TransactionDate": "2023-01-09 14:00:00",
+        "Amount": 149.93,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 207,
+        "CustomerID": 3436,
+        "TransactionDate": "2023-01-09 15:00:00",
+        "Amount": 142.55,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 208,
+        "CustomerID": 2894,
+        "TransactionDate": "2023-01-09 16:00:00",
+        "Amount": 84.62,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 209,
+        "CustomerID": 4115,
+        "TransactionDate": "2023-01-09 17:00:00",
+        "Amount": 384.35,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 210,
+        "CustomerID": 2961,
+        "TransactionDate": "2023-01-09 18:00:00",
+        "Amount": 117.55,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 211,
+        "CustomerID": 2999,
+        "TransactionDate": "2023-01-09 19:00:00",
+        "Amount": 461.94,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 212,
+        "CustomerID": 3040,
+        "TransactionDate": "2023-01-09 20:00:00",
+        "Amount": 428.89,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 213,
+        "CustomerID": 4985,
+        "TransactionDate": "2023-01-09 21:00:00",
+        "Amount": 483.63,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 214,
+        "CustomerID": 3492,
+        "TransactionDate": "2023-01-09 22:00:00",
+        "Amount": 214.89,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 215,
+        "CustomerID": 4936,
+        "TransactionDate": "2023-01-09 23:00:00",
+        "Amount": 355.86,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 216,
+        "CustomerID": 3683,
+        "TransactionDate": "2023-01-10 00:00:00",
+        "Amount": 71.3,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 217,
+        "CustomerID": 2989,
+        "TransactionDate": "2023-01-10 01:00:00",
+        "Amount": 177.6,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 218,
+        "CustomerID": 4065,
+        "TransactionDate": "2023-01-10 02:00:00",
+        "Amount": 152.11,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 219,
+        "CustomerID": 1910,
+        "TransactionDate": "2023-01-10 03:00:00",
+        "Amount": 453.13,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 220,
+        "CustomerID": 2517,
+        "TransactionDate": "2023-01-10 04:00:00",
+        "Amount": 36.9,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 221,
+        "CustomerID": 1536,
+        "TransactionDate": "2023-01-10 05:00:00",
+        "Amount": 377.93,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 222,
+        "CustomerID": 3685,
+        "TransactionDate": "2023-01-10 06:00:00",
+        "Amount": 47.88,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 223,
+        "CustomerID": 3716,
+        "TransactionDate": "2023-01-10 07:00:00",
+        "Amount": 299.18,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 224,
+        "CustomerID": 1741,
+        "TransactionDate": "2023-01-10 08:00:00",
+        "Amount": 388.94,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 225,
+        "CustomerID": 2021,
+        "TransactionDate": "2023-01-10 09:00:00",
+        "Amount": 9.78,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 226,
+        "CustomerID": 1947,
+        "TransactionDate": "2023-01-10 10:00:00",
+        "Amount": 87.28,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 227,
+        "CustomerID": 2584,
+        "TransactionDate": "2023-01-10 11:00:00",
+        "Amount": 229.21,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 228,
+        "CustomerID": 3408,
+        "TransactionDate": "2023-01-10 12:00:00",
+        "Amount": 492.8,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 229,
+        "CustomerID": 2978,
+        "TransactionDate": "2023-01-10 13:00:00",
+        "Amount": 63.49,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 230,
+        "CustomerID": 4310,
+        "TransactionDate": "2023-01-10 14:00:00",
+        "Amount": 187.35,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 231,
+        "CustomerID": 3667,
+        "TransactionDate": "2023-01-10 15:00:00",
+        "Amount": 255.8,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 232,
+        "CustomerID": 1120,
+        "TransactionDate": "2023-01-10 16:00:00",
+        "Amount": 56.94,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 233,
+        "CustomerID": 2067,
+        "TransactionDate": "2023-01-10 17:00:00",
+        "Amount": 100.46,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 234,
+        "CustomerID": 2822,
+        "TransactionDate": "2023-01-10 18:00:00",
+        "Amount": 73.74,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 235,
+        "CustomerID": 1977,
+        "TransactionDate": "2023-01-10 19:00:00",
+        "Amount": 418.0,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 236,
+        "CustomerID": 4149,
+        "TransactionDate": "2023-01-10 20:00:00",
+        "Amount": 460.9,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 237,
+        "CustomerID": 2717,
+        "TransactionDate": "2023-01-10 21:00:00",
+        "Amount": 349.53,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 238,
+        "CustomerID": 4070,
+        "TransactionDate": "2023-01-10 22:00:00",
+        "Amount": 368.64,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 239,
+        "CustomerID": 3606,
+        "TransactionDate": "2023-01-10 23:00:00",
+        "Amount": 25.69,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 240,
+        "CustomerID": 3655,
+        "TransactionDate": "2023-01-11 00:00:00",
+        "Amount": 399.44,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 241,
+        "CustomerID": 1992,
+        "TransactionDate": "2023-01-11 01:00:00",
+        "Amount": 246.8,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 242,
+        "CustomerID": 4981,
+        "TransactionDate": "2023-01-11 02:00:00",
+        "Amount": 443.62,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 243,
+        "CustomerID": 2014,
+        "TransactionDate": "2023-01-11 03:00:00",
+        "Amount": 328.1,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 244,
+        "CustomerID": 3788,
+        "TransactionDate": "2023-01-11 04:00:00",
+        "Amount": 494.78,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 245,
+        "CustomerID": 2880,
+        "TransactionDate": "2023-01-11 05:00:00",
+        "Amount": 383.82,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 246,
+        "CustomerID": 1240,
+        "TransactionDate": "2023-01-11 06:00:00",
+        "Amount": 452.94,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 247,
+        "CustomerID": 3166,
+        "TransactionDate": "2023-01-11 07:00:00",
+        "Amount": 92.04,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 248,
+        "CustomerID": 4287,
+        "TransactionDate": "2023-01-11 08:00:00",
+        "Amount": 34.71,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 249,
+        "CustomerID": 3502,
+        "TransactionDate": "2023-01-11 09:00:00",
+        "Amount": 474.82,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 250,
+        "CustomerID": 1988,
+        "TransactionDate": "2023-01-11 10:00:00",
+        "Amount": 327.85,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 251,
+        "CustomerID": 3971,
+        "TransactionDate": "2023-01-11 11:00:00",
+        "Amount": 382.53,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 252,
+        "CustomerID": 2269,
+        "TransactionDate": "2023-01-11 12:00:00",
+        "Amount": 477.82,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 253,
+        "CustomerID": 4081,
+        "TransactionDate": "2023-01-11 13:00:00",
+        "Amount": 381.52,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 254,
+        "CustomerID": 3457,
+        "TransactionDate": "2023-01-11 14:00:00",
+        "Amount": 151.33,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 255,
+        "CustomerID": 4747,
+        "TransactionDate": "2023-01-11 15:00:00",
+        "Amount": 178.93,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 256,
+        "CustomerID": 1480,
+        "TransactionDate": "2023-01-11 16:00:00",
+        "Amount": 353.25,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 257,
+        "CustomerID": 4737,
+        "TransactionDate": "2023-01-11 17:00:00",
+        "Amount": 371.56,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 258,
+        "CustomerID": 2497,
+        "TransactionDate": "2023-01-11 18:00:00",
+        "Amount": 326.64,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 259,
+        "CustomerID": 1439,
+        "TransactionDate": "2023-01-11 19:00:00",
+        "Amount": 375.68,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 260,
+        "CustomerID": 3472,
+        "TransactionDate": "2023-01-11 20:00:00",
+        "Amount": 251.45,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 261,
+        "CustomerID": 4353,
+        "TransactionDate": "2023-01-11 21:00:00",
+        "Amount": 272.79,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 262,
+        "CustomerID": 1279,
+        "TransactionDate": "2023-01-11 22:00:00",
+        "Amount": 113.66,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 263,
+        "CustomerID": 2817,
+        "TransactionDate": "2023-01-11 23:00:00",
+        "Amount": 324.58,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 264,
+        "CustomerID": 1437,
+        "TransactionDate": "2023-01-12 00:00:00",
+        "Amount": 230.14,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 265,
+        "CustomerID": 2553,
+        "TransactionDate": "2023-01-12 01:00:00",
+        "Amount": 479.38,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 266,
+        "CustomerID": 1374,
+        "TransactionDate": "2023-01-12 02:00:00",
+        "Amount": 298.63,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 267,
+        "CustomerID": 3889,
+        "TransactionDate": "2023-01-12 03:00:00",
+        "Amount": 303.41,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 268,
+        "CustomerID": 4021,
+        "TransactionDate": "2023-01-12 04:00:00",
+        "Amount": 13.81,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 269,
+        "CustomerID": 2736,
+        "TransactionDate": "2023-01-12 05:00:00",
+        "Amount": 96.04,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 270,
+        "CustomerID": 2687,
+        "TransactionDate": "2023-01-12 06:00:00",
+        "Amount": 410.27,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 271,
+        "CustomerID": 2470,
+        "TransactionDate": "2023-01-12 07:00:00",
+        "Amount": 92.04,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 272,
+        "CustomerID": 3087,
+        "TransactionDate": "2023-01-12 08:00:00",
+        "Amount": 13.15,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 273,
+        "CustomerID": 1070,
+        "TransactionDate": "2023-01-12 09:00:00",
+        "Amount": 439.65,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 274,
+        "CustomerID": 2418,
+        "TransactionDate": "2023-01-12 10:00:00",
+        "Amount": 367.32,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 275,
+        "CustomerID": 1739,
+        "TransactionDate": "2023-01-12 11:00:00",
+        "Amount": 238.95,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 276,
+        "CustomerID": 2054,
+        "TransactionDate": "2023-01-12 12:00:00",
+        "Amount": 155.77,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 277,
+        "CustomerID": 4953,
+        "TransactionDate": "2023-01-12 13:00:00",
+        "Amount": 207.15,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 278,
+        "CustomerID": 2195,
+        "TransactionDate": "2023-01-12 14:00:00",
+        "Amount": 377.39,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 279,
+        "CustomerID": 4019,
+        "TransactionDate": "2023-01-12 15:00:00",
+        "Amount": 494.14,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 280,
+        "CustomerID": 3253,
+        "TransactionDate": "2023-01-12 16:00:00",
+        "Amount": 100.27,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 281,
+        "CustomerID": 4584,
+        "TransactionDate": "2023-01-12 17:00:00",
+        "Amount": 116.75,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 282,
+        "CustomerID": 2568,
+        "TransactionDate": "2023-01-12 18:00:00",
+        "Amount": 91.37,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 283,
+        "CustomerID": 2033,
+        "TransactionDate": "2023-01-12 19:00:00",
+        "Amount": 366.68,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 284,
+        "CustomerID": 1754,
+        "TransactionDate": "2023-01-12 20:00:00",
+        "Amount": 411.59,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 285,
+        "CustomerID": 2168,
+        "TransactionDate": "2023-01-12 21:00:00",
+        "Amount": 378.9,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 286,
+        "CustomerID": 3807,
+        "TransactionDate": "2023-01-12 22:00:00",
+        "Amount": 111.37,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 287,
+        "CustomerID": 4479,
+        "TransactionDate": "2023-01-12 23:00:00",
+        "Amount": 87.76,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 288,
+        "CustomerID": 1683,
+        "TransactionDate": "2023-01-13 00:00:00",
+        "Amount": 166.49,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 289,
+        "CustomerID": 2800,
+        "TransactionDate": "2023-01-13 01:00:00",
+        "Amount": 357.36,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 290,
+        "CustomerID": 3516,
+        "TransactionDate": "2023-01-13 02:00:00",
+        "Amount": 115.63,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 291,
+        "CustomerID": 4009,
+        "TransactionDate": "2023-01-13 03:00:00",
+        "Amount": 21.42,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 292,
+        "CustomerID": 1267,
+        "TransactionDate": "2023-01-13 04:00:00",
+        "Amount": 389.25,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 293,
+        "CustomerID": 2341,
+        "TransactionDate": "2023-01-13 05:00:00",
+        "Amount": 249.12,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 294,
+        "CustomerID": 4672,
+        "TransactionDate": "2023-01-13 06:00:00",
+        "Amount": 397.28,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 295,
+        "CustomerID": 3529,
+        "TransactionDate": "2023-01-13 07:00:00",
+        "Amount": 316.54,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 296,
+        "CustomerID": 3249,
+        "TransactionDate": "2023-01-13 08:00:00",
+        "Amount": 29.36,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 297,
+        "CustomerID": 1030,
+        "TransactionDate": "2023-01-13 09:00:00",
+        "Amount": 92.37,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 298,
+        "CustomerID": 3884,
+        "TransactionDate": "2023-01-13 10:00:00",
+        "Amount": 382.49,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 299,
+        "CustomerID": 1091,
+        "TransactionDate": "2023-01-13 11:00:00",
+        "Amount": 320.63,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 300,
+        "CustomerID": 1414,
+        "TransactionDate": "2023-01-13 12:00:00",
+        "Amount": 466.07,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 301,
+        "CustomerID": 3925,
+        "TransactionDate": "2023-01-13 13:00:00",
+        "Amount": 201.9,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 302,
+        "CustomerID": 3151,
+        "TransactionDate": "2023-01-13 14:00:00",
+        "Amount": 127.36,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 303,
+        "CustomerID": 3511,
+        "TransactionDate": "2023-01-13 15:00:00",
+        "Amount": 325.89,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 304,
+        "CustomerID": 4298,
+        "TransactionDate": "2023-01-13 16:00:00",
+        "Amount": 403.84,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 305,
+        "CustomerID": 3276,
+        "TransactionDate": "2023-01-13 17:00:00",
+        "Amount": 61.21,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 306,
+        "CustomerID": 4209,
+        "TransactionDate": "2023-01-13 18:00:00",
+        "Amount": 217.2,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 307,
+        "CustomerID": 4260,
+        "TransactionDate": "2023-01-13 19:00:00",
+        "Amount": 73.8,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 308,
+        "CustomerID": 1098,
+        "TransactionDate": "2023-01-13 20:00:00",
+        "Amount": 335.08,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 309,
+        "CustomerID": 1398,
+        "TransactionDate": "2023-01-13 21:00:00",
+        "Amount": 362.36,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 310,
+        "CustomerID": 4895,
+        "TransactionDate": "2023-01-13 22:00:00",
+        "Amount": 366.89,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 311,
+        "CustomerID": 2262,
+        "TransactionDate": "2023-01-13 23:00:00",
+        "Amount": 279.2,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 312,
+        "CustomerID": 1814,
+        "TransactionDate": "2023-01-14 00:00:00",
+        "Amount": 109.0,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 313,
+        "CustomerID": 1392,
+        "TransactionDate": "2023-01-14 01:00:00",
+        "Amount": 324.98,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 314,
+        "CustomerID": 3640,
+        "TransactionDate": "2023-01-14 02:00:00",
+        "Amount": 324.41,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 315,
+        "CustomerID": 1852,
+        "TransactionDate": "2023-01-14 03:00:00",
+        "Amount": 44.57,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 316,
+        "CustomerID": 4095,
+        "TransactionDate": "2023-01-14 04:00:00",
+        "Amount": 340.96,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 317,
+        "CustomerID": 4867,
+        "TransactionDate": "2023-01-14 05:00:00",
+        "Amount": 87.11,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 318,
+        "CustomerID": 4493,
+        "TransactionDate": "2023-01-14 06:00:00",
+        "Amount": 93.29,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 319,
+        "CustomerID": 3744,
+        "TransactionDate": "2023-01-14 07:00:00",
+        "Amount": 23.52,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 320,
+        "CustomerID": 3574,
+        "TransactionDate": "2023-01-14 08:00:00",
+        "Amount": 245.61,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 321,
+        "CustomerID": 3806,
+        "TransactionDate": "2023-01-14 09:00:00",
+        "Amount": 306.11,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 322,
+        "CustomerID": 2953,
+        "TransactionDate": "2023-01-14 10:00:00",
+        "Amount": 303.01,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 323,
+        "CustomerID": 3505,
+        "TransactionDate": "2023-01-14 11:00:00",
+        "Amount": 296.56,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 324,
+        "CustomerID": 2572,
+        "TransactionDate": "2023-01-14 12:00:00",
+        "Amount": 366.65,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 325,
+        "CustomerID": 1799,
+        "TransactionDate": "2023-01-14 13:00:00",
+        "Amount": 351.66,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 326,
+        "CustomerID": 3336,
+        "TransactionDate": "2023-01-14 14:00:00",
+        "Amount": 205.99,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 327,
+        "CustomerID": 2920,
+        "TransactionDate": "2023-01-14 15:00:00",
+        "Amount": 463.8,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 328,
+        "CustomerID": 3898,
+        "TransactionDate": "2023-01-14 16:00:00",
+        "Amount": 242.99,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 329,
+        "CustomerID": 4980,
+        "TransactionDate": "2023-01-14 17:00:00",
+        "Amount": 223.21,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 330,
+        "CustomerID": 2179,
+        "TransactionDate": "2023-01-14 18:00:00",
+        "Amount": 112.2,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 331,
+        "CustomerID": 3489,
+        "TransactionDate": "2023-01-14 19:00:00",
+        "Amount": 74.46,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 332,
+        "CustomerID": 3892,
+        "TransactionDate": "2023-01-14 20:00:00",
+        "Amount": 59.42,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 333,
+        "CustomerID": 1773,
+        "TransactionDate": "2023-01-14 21:00:00",
+        "Amount": 206.84,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 334,
+        "CustomerID": 4626,
+        "TransactionDate": "2023-01-14 22:00:00",
+        "Amount": 295.8,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 335,
+        "CustomerID": 4736,
+        "TransactionDate": "2023-01-14 23:00:00",
+        "Amount": 34.1,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 336,
+        "CustomerID": 3215,
+        "TransactionDate": "2023-01-15 00:00:00",
+        "Amount": 244.9,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 337,
+        "CustomerID": 4749,
+        "TransactionDate": "2023-01-15 01:00:00",
+        "Amount": 234.28,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 338,
+        "CustomerID": 3805,
+        "TransactionDate": "2023-01-15 02:00:00",
+        "Amount": 348.86,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 339,
+        "CustomerID": 3766,
+        "TransactionDate": "2023-01-15 03:00:00",
+        "Amount": 11.24,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 340,
+        "CustomerID": 3006,
+        "TransactionDate": "2023-01-15 04:00:00",
+        "Amount": 443.59,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 341,
+        "CustomerID": 1356,
+        "TransactionDate": "2023-01-15 05:00:00",
+        "Amount": 470.15,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 342,
+        "CustomerID": 1941,
+        "TransactionDate": "2023-01-15 06:00:00",
+        "Amount": 229.24,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 343,
+        "CustomerID": 2312,
+        "TransactionDate": "2023-01-15 07:00:00",
+        "Amount": 7.51,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 344,
+        "CustomerID": 2907,
+        "TransactionDate": "2023-01-15 08:00:00",
+        "Amount": 414.77,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 345,
+        "CustomerID": 4041,
+        "TransactionDate": "2023-01-15 09:00:00",
+        "Amount": 131.69,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 346,
+        "CustomerID": 2055,
+        "TransactionDate": "2023-01-15 10:00:00",
+        "Amount": 353.18,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 347,
+        "CustomerID": 4815,
+        "TransactionDate": "2023-01-15 11:00:00",
+        "Amount": 172.03,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 348,
+        "CustomerID": 4868,
+        "TransactionDate": "2023-01-15 12:00:00",
+        "Amount": 424.85,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 349,
+        "CustomerID": 3194,
+        "TransactionDate": "2023-01-15 13:00:00",
+        "Amount": 366.76,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 350,
+        "CustomerID": 2212,
+        "TransactionDate": "2023-01-15 14:00:00",
+        "Amount": 104.86,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 351,
+        "CustomerID": 4734,
+        "TransactionDate": "2023-01-15 15:00:00",
+        "Amount": 352.45,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 352,
+        "CustomerID": 3336,
+        "TransactionDate": "2023-01-15 16:00:00",
+        "Amount": 262.54,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 353,
+        "CustomerID": 2603,
+        "TransactionDate": "2023-01-15 17:00:00",
+        "Amount": 199.19,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 354,
+        "CustomerID": 4250,
+        "TransactionDate": "2023-01-15 18:00:00",
+        "Amount": 29.94,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 355,
+        "CustomerID": 3119,
+        "TransactionDate": "2023-01-15 19:00:00",
+        "Amount": 356.28,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 356,
+        "CustomerID": 1038,
+        "TransactionDate": "2023-01-15 20:00:00",
+        "Amount": 231.11,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 357,
+        "CustomerID": 1955,
+        "TransactionDate": "2023-01-15 21:00:00",
+        "Amount": 411.37,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 358,
+        "CustomerID": 4919,
+        "TransactionDate": "2023-01-15 22:00:00",
+        "Amount": 173.47,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 359,
+        "CustomerID": 2400,
+        "TransactionDate": "2023-01-15 23:00:00",
+        "Amount": 19.74,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 360,
+        "CustomerID": 3603,
+        "TransactionDate": "2023-01-16 00:00:00",
+        "Amount": 469.83,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 361,
+        "CustomerID": 2552,
+        "TransactionDate": "2023-01-16 01:00:00",
+        "Amount": 34.02,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 362,
+        "CustomerID": 4115,
+        "TransactionDate": "2023-01-16 02:00:00",
+        "Amount": 447.48,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 363,
+        "CustomerID": 3240,
+        "TransactionDate": "2023-01-16 03:00:00",
+        "Amount": 413.96,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 364,
+        "CustomerID": 2227,
+        "TransactionDate": "2023-01-16 04:00:00",
+        "Amount": 172.16,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 365,
+        "CustomerID": 4164,
+        "TransactionDate": "2023-01-16 05:00:00",
+        "Amount": 407.83,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 366,
+        "CustomerID": 2066,
+        "TransactionDate": "2023-01-16 06:00:00",
+        "Amount": 47.8,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 367,
+        "CustomerID": 1621,
+        "TransactionDate": "2023-01-16 07:00:00",
+        "Amount": 142.14,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 368,
+        "CustomerID": 2270,
+        "TransactionDate": "2023-01-16 08:00:00",
+        "Amount": 431.05,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 369,
+        "CustomerID": 3495,
+        "TransactionDate": "2023-01-16 09:00:00",
+        "Amount": 167.84,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 370,
+        "CustomerID": 2086,
+        "TransactionDate": "2023-01-16 10:00:00",
+        "Amount": 31.48,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 371,
+        "CustomerID": 3638,
+        "TransactionDate": "2023-01-16 11:00:00",
+        "Amount": 423.25,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 372,
+        "CustomerID": 2983,
+        "TransactionDate": "2023-01-16 12:00:00",
+        "Amount": 55.8,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 373,
+        "CustomerID": 1180,
+        "TransactionDate": "2023-01-16 13:00:00",
+        "Amount": 327.17,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 374,
+        "CustomerID": 4154,
+        "TransactionDate": "2023-01-16 14:00:00",
+        "Amount": 151.2,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 375,
+        "CustomerID": 1639,
+        "TransactionDate": "2023-01-16 15:00:00",
+        "Amount": 464.33,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 376,
+        "CustomerID": 1140,
+        "TransactionDate": "2023-01-16 16:00:00",
+        "Amount": 81.01,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 377,
+        "CustomerID": 1575,
+        "TransactionDate": "2023-01-16 17:00:00",
+        "Amount": 300.24,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 378,
+        "CustomerID": 3415,
+        "TransactionDate": "2023-01-16 18:00:00",
+        "Amount": 263.5,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 379,
+        "CustomerID": 3117,
+        "TransactionDate": "2023-01-16 19:00:00",
+        "Amount": 396.8,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 380,
+        "CustomerID": 1918,
+        "TransactionDate": "2023-01-16 20:00:00",
+        "Amount": 120.7,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 381,
+        "CustomerID": 2838,
+        "TransactionDate": "2023-01-16 21:00:00",
+        "Amount": 111.07,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 382,
+        "CustomerID": 1791,
+        "TransactionDate": "2023-01-16 22:00:00",
+        "Amount": 163.25,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 383,
+        "CustomerID": 2899,
+        "TransactionDate": "2023-01-16 23:00:00",
+        "Amount": 498.48,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 384,
+        "CustomerID": 2761,
+        "TransactionDate": "2023-01-17 00:00:00",
+        "Amount": 20.03,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 385,
+        "CustomerID": 4042,
+        "TransactionDate": "2023-01-17 01:00:00",
+        "Amount": 59.31,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 386,
+        "CustomerID": 3638,
+        "TransactionDate": "2023-01-17 02:00:00",
+        "Amount": 395.73,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 387,
+        "CustomerID": 3056,
+        "TransactionDate": "2023-01-17 03:00:00",
+        "Amount": 459.82,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 388,
+        "CustomerID": 2452,
+        "TransactionDate": "2023-01-17 04:00:00",
+        "Amount": 426.96,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 389,
+        "CustomerID": 4681,
+        "TransactionDate": "2023-01-17 05:00:00",
+        "Amount": 164.44,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 390,
+        "CustomerID": 2054,
+        "TransactionDate": "2023-01-17 06:00:00",
+        "Amount": 243.78,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 391,
+        "CustomerID": 3723,
+        "TransactionDate": "2023-01-17 07:00:00",
+        "Amount": 28.54,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 392,
+        "CustomerID": 1958,
+        "TransactionDate": "2023-01-17 08:00:00",
+        "Amount": 47.33,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 393,
+        "CustomerID": 2946,
+        "TransactionDate": "2023-01-17 09:00:00",
+        "Amount": 133.45,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 394,
+        "CustomerID": 4413,
+        "TransactionDate": "2023-01-17 10:00:00",
+        "Amount": 456.37,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 395,
+        "CustomerID": 4539,
+        "TransactionDate": "2023-01-17 11:00:00",
+        "Amount": 223.39,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 396,
+        "CustomerID": 3491,
+        "TransactionDate": "2023-01-17 12:00:00",
+        "Amount": 498.31,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 397,
+        "CustomerID": 2536,
+        "TransactionDate": "2023-01-17 13:00:00",
+        "Amount": 252.09,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 398,
+        "CustomerID": 1348,
+        "TransactionDate": "2023-01-17 14:00:00",
+        "Amount": 97.39,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 399,
+        "CustomerID": 2092,
+        "TransactionDate": "2023-01-17 15:00:00",
+        "Amount": 357.39,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 400,
+        "CustomerID": 3321,
+        "TransactionDate": "2023-01-17 16:00:00",
+        "Amount": 331.24,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 401,
+        "CustomerID": 3373,
+        "TransactionDate": "2023-01-17 17:00:00",
+        "Amount": 348.84,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 402,
+        "CustomerID": 2307,
+        "TransactionDate": "2023-01-17 18:00:00",
+        "Amount": 206.98,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 403,
+        "CustomerID": 3931,
+        "TransactionDate": "2023-01-17 19:00:00",
+        "Amount": 474.25,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 404,
+        "CustomerID": 2280,
+        "TransactionDate": "2023-01-17 20:00:00",
+        "Amount": 349.24,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 405,
+        "CustomerID": 4831,
+        "TransactionDate": "2023-01-17 21:00:00",
+        "Amount": 82.63,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 406,
+        "CustomerID": 1239,
+        "TransactionDate": "2023-01-17 22:00:00",
+        "Amount": 138.14,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 407,
+        "CustomerID": 2030,
+        "TransactionDate": "2023-01-17 23:00:00",
+        "Amount": 130.66,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 408,
+        "CustomerID": 4409,
+        "TransactionDate": "2023-01-18 00:00:00",
+        "Amount": 275.04,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 409,
+        "CustomerID": 4140,
+        "TransactionDate": "2023-01-18 01:00:00",
+        "Amount": 406.91,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 410,
+        "CustomerID": 1761,
+        "TransactionDate": "2023-01-18 02:00:00",
+        "Amount": 305.52,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 411,
+        "CustomerID": 3356,
+        "TransactionDate": "2023-01-18 03:00:00",
+        "Amount": 36.26,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 412,
+        "CustomerID": 4939,
+        "TransactionDate": "2023-01-18 04:00:00",
+        "Amount": 8.64,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 413,
+        "CustomerID": 3359,
+        "TransactionDate": "2023-01-18 05:00:00",
+        "Amount": 425.78,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 414,
+        "CustomerID": 4318,
+        "TransactionDate": "2023-01-18 06:00:00",
+        "Amount": 333.08,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 415,
+        "CustomerID": 2662,
+        "TransactionDate": "2023-01-18 07:00:00",
+        "Amount": 407.07,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 416,
+        "CustomerID": 4014,
+        "TransactionDate": "2023-01-18 08:00:00",
+        "Amount": 145.18,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 417,
+        "CustomerID": 4345,
+        "TransactionDate": "2023-01-18 09:00:00",
+        "Amount": 118.94,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 418,
+        "CustomerID": 1168,
+        "TransactionDate": "2023-01-18 10:00:00",
+        "Amount": 43.99,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 419,
+        "CustomerID": 3622,
+        "TransactionDate": "2023-01-18 11:00:00",
+        "Amount": 133.86,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 420,
+        "CustomerID": 4790,
+        "TransactionDate": "2023-01-18 12:00:00",
+        "Amount": 217.14,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 421,
+        "CustomerID": 2702,
+        "TransactionDate": "2023-01-18 13:00:00",
+        "Amount": 339.23,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 422,
+        "CustomerID": 1908,
+        "TransactionDate": "2023-01-18 14:00:00",
+        "Amount": 228.31,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 423,
+        "CustomerID": 2610,
+        "TransactionDate": "2023-01-18 15:00:00",
+        "Amount": 213.24,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 424,
+        "CustomerID": 2749,
+        "TransactionDate": "2023-01-18 16:00:00",
+        "Amount": 392.29,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 425,
+        "CustomerID": 4204,
+        "TransactionDate": "2023-01-18 17:00:00",
+        "Amount": 383.27,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 426,
+        "CustomerID": 3058,
+        "TransactionDate": "2023-01-18 18:00:00",
+        "Amount": 52.77,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 427,
+        "CustomerID": 1694,
+        "TransactionDate": "2023-01-18 19:00:00",
+        "Amount": 345.8,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 428,
+        "CustomerID": 4971,
+        "TransactionDate": "2023-01-18 20:00:00",
+        "Amount": 116.3,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 429,
+        "CustomerID": 3476,
+        "TransactionDate": "2023-01-18 21:00:00",
+        "Amount": 81.74,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 430,
+        "CustomerID": 4955,
+        "TransactionDate": "2023-01-18 22:00:00",
+        "Amount": 24.86,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 431,
+        "CustomerID": 2219,
+        "TransactionDate": "2023-01-18 23:00:00",
+        "Amount": 424.34,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 432,
+        "CustomerID": 1915,
+        "TransactionDate": "2023-01-19 00:00:00",
+        "Amount": 475.82,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 433,
+        "CustomerID": 1595,
+        "TransactionDate": "2023-01-19 01:00:00",
+        "Amount": 424.89,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 434,
+        "CustomerID": 1125,
+        "TransactionDate": "2023-01-19 02:00:00",
+        "Amount": 447.27,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 435,
+        "CustomerID": 3693,
+        "TransactionDate": "2023-01-19 03:00:00",
+        "Amount": 240.27,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 436,
+        "CustomerID": 4920,
+        "TransactionDate": "2023-01-19 04:00:00",
+        "Amount": 58.45,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 437,
+        "CustomerID": 3494,
+        "TransactionDate": "2023-01-19 05:00:00",
+        "Amount": 224.69,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 438,
+        "CustomerID": 2567,
+        "TransactionDate": "2023-01-19 06:00:00",
+        "Amount": 368.85,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 439,
+        "CustomerID": 4448,
+        "TransactionDate": "2023-01-19 07:00:00",
+        "Amount": 485.87,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 440,
+        "CustomerID": 2440,
+        "TransactionDate": "2023-01-19 08:00:00",
+        "Amount": 438.97,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 441,
+        "CustomerID": 1053,
+        "TransactionDate": "2023-01-19 09:00:00",
+        "Amount": 44.22,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 442,
+        "CustomerID": 2825,
+        "TransactionDate": "2023-01-19 10:00:00",
+        "Amount": 17.88,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 443,
+        "CustomerID": 2371,
+        "TransactionDate": "2023-01-19 11:00:00",
+        "Amount": 202.47,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 444,
+        "CustomerID": 4155,
+        "TransactionDate": "2023-01-19 12:00:00",
+        "Amount": 243.75,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 445,
+        "CustomerID": 2066,
+        "TransactionDate": "2023-01-19 13:00:00",
+        "Amount": 204.63,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 446,
+        "CustomerID": 1215,
+        "TransactionDate": "2023-01-19 14:00:00",
+        "Amount": 353.05,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 447,
+        "CustomerID": 4746,
+        "TransactionDate": "2023-01-19 15:00:00",
+        "Amount": 205.45,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 448,
+        "CustomerID": 1635,
+        "TransactionDate": "2023-01-19 16:00:00",
+        "Amount": 31.86,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 449,
+        "CustomerID": 4788,
+        "TransactionDate": "2023-01-19 17:00:00",
+        "Amount": 204.07,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 450,
+        "CustomerID": 3772,
+        "TransactionDate": "2023-01-19 18:00:00",
+        "Amount": 303.58,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 451,
+        "CustomerID": 2567,
+        "TransactionDate": "2023-01-19 19:00:00",
+        "Amount": 429.21,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 452,
+        "CustomerID": 4670,
+        "TransactionDate": "2023-01-19 20:00:00",
+        "Amount": 340.53,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 453,
+        "CustomerID": 4283,
+        "TransactionDate": "2023-01-19 21:00:00",
+        "Amount": 238.97,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 454,
+        "CustomerID": 1994,
+        "TransactionDate": "2023-01-19 22:00:00",
+        "Amount": 286.78,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 455,
+        "CustomerID": 1059,
+        "TransactionDate": "2023-01-19 23:00:00",
+        "Amount": 87.22,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 456,
+        "CustomerID": 2278,
+        "TransactionDate": "2023-01-20 00:00:00",
+        "Amount": 265.86,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 457,
+        "CustomerID": 4191,
+        "TransactionDate": "2023-01-20 01:00:00",
+        "Amount": 393.02,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 458,
+        "CustomerID": 2283,
+        "TransactionDate": "2023-01-20 02:00:00",
+        "Amount": 59.94,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 459,
+        "CustomerID": 2960,
+        "TransactionDate": "2023-01-20 03:00:00",
+        "Amount": 82.48,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 460,
+        "CustomerID": 2184,
+        "TransactionDate": "2023-01-20 04:00:00",
+        "Amount": 264.23,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 461,
+        "CustomerID": 2301,
+        "TransactionDate": "2023-01-20 05:00:00",
+        "Amount": 426.66,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 462,
+        "CustomerID": 1102,
+        "TransactionDate": "2023-01-20 06:00:00",
+        "Amount": 280.2,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 463,
+        "CustomerID": 1658,
+        "TransactionDate": "2023-01-20 07:00:00",
+        "Amount": 34.04,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 464,
+        "CustomerID": 2217,
+        "TransactionDate": "2023-01-20 08:00:00",
+        "Amount": 219.25,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 465,
+        "CustomerID": 2881,
+        "TransactionDate": "2023-01-20 09:00:00",
+        "Amount": 293.42,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 466,
+        "CustomerID": 2407,
+        "TransactionDate": "2023-01-20 10:00:00",
+        "Amount": 487.78,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 467,
+        "CustomerID": 2931,
+        "TransactionDate": "2023-01-20 11:00:00",
+        "Amount": 126.54,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 468,
+        "CustomerID": 1464,
+        "TransactionDate": "2023-01-20 12:00:00",
+        "Amount": 15.82,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 469,
+        "CustomerID": 4291,
+        "TransactionDate": "2023-01-20 13:00:00",
+        "Amount": 150.37,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 470,
+        "CustomerID": 3189,
+        "TransactionDate": "2023-01-20 14:00:00",
+        "Amount": 53.07,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 471,
+        "CustomerID": 1833,
+        "TransactionDate": "2023-01-20 15:00:00",
+        "Amount": 384.42,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 472,
+        "CustomerID": 3190,
+        "TransactionDate": "2023-01-20 16:00:00",
+        "Amount": 442.18,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 473,
+        "CustomerID": 2737,
+        "TransactionDate": "2023-01-20 17:00:00",
+        "Amount": 457.12,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 474,
+        "CustomerID": 1508,
+        "TransactionDate": "2023-01-20 18:00:00",
+        "Amount": 111.86,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 475,
+        "CustomerID": 1166,
+        "TransactionDate": "2023-01-20 19:00:00",
+        "Amount": 54.32,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 476,
+        "CustomerID": 3541,
+        "TransactionDate": "2023-01-20 20:00:00",
+        "Amount": 335.17,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 477,
+        "CustomerID": 2373,
+        "TransactionDate": "2023-01-20 21:00:00",
+        "Amount": 70.62,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 478,
+        "CustomerID": 1186,
+        "TransactionDate": "2023-01-20 22:00:00",
+        "Amount": 329.41,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 479,
+        "CustomerID": 3434,
+        "TransactionDate": "2023-01-20 23:00:00",
+        "Amount": 87.73,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 480,
+        "CustomerID": 4145,
+        "TransactionDate": "2023-01-21 00:00:00",
+        "Amount": 380.84,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 481,
+        "CustomerID": 4048,
+        "TransactionDate": "2023-01-21 01:00:00",
+        "Amount": 159.53,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 482,
+        "CustomerID": 2021,
+        "TransactionDate": "2023-01-21 02:00:00",
+        "Amount": 221.43,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 483,
+        "CustomerID": 2796,
+        "TransactionDate": "2023-01-21 03:00:00",
+        "Amount": 211.96,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 484,
+        "CustomerID": 1671,
+        "TransactionDate": "2023-01-21 04:00:00",
+        "Amount": 287.7,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 485,
+        "CustomerID": 3153,
+        "TransactionDate": "2023-01-21 05:00:00",
+        "Amount": 130.53,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 486,
+        "CustomerID": 3456,
+        "TransactionDate": "2023-01-21 06:00:00",
+        "Amount": 244.91,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 487,
+        "CustomerID": 1006,
+        "TransactionDate": "2023-01-21 07:00:00",
+        "Amount": 48.39,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 488,
+        "CustomerID": 1732,
+        "TransactionDate": "2023-01-21 08:00:00",
+        "Amount": 405.37,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 489,
+        "CustomerID": 1940,
+        "TransactionDate": "2023-01-21 09:00:00",
+        "Amount": 494.66,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 490,
+        "CustomerID": 2321,
+        "TransactionDate": "2023-01-21 10:00:00",
+        "Amount": 37.21,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 491,
+        "CustomerID": 2661,
+        "TransactionDate": "2023-01-21 11:00:00",
+        "Amount": 13.72,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 492,
+        "CustomerID": 4931,
+        "TransactionDate": "2023-01-21 12:00:00",
+        "Amount": 372.66,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 493,
+        "CustomerID": 3327,
+        "TransactionDate": "2023-01-21 13:00:00",
+        "Amount": 336.34,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 494,
+        "CustomerID": 1122,
+        "TransactionDate": "2023-01-21 14:00:00",
+        "Amount": 209.04,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 495,
+        "CustomerID": 1197,
+        "TransactionDate": "2023-01-21 15:00:00",
+        "Amount": 333.73,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 496,
+        "CustomerID": 1723,
+        "TransactionDate": "2023-01-21 16:00:00",
+        "Amount": 9.68,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 497,
+        "CustomerID": 4835,
+        "TransactionDate": "2023-01-21 17:00:00",
+        "Amount": 5.36,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 498,
+        "CustomerID": 1966,
+        "TransactionDate": "2023-01-21 18:00:00",
+        "Amount": 213.91,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 499,
+        "CustomerID": 3070,
+        "TransactionDate": "2023-01-21 19:00:00",
+        "Amount": 6.37,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 500,
+        "CustomerID": 3749,
+        "TransactionDate": "2023-01-21 20:00:00",
+        "Amount": 262.55,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 501,
+        "CustomerID": 2256,
+        "TransactionDate": "2023-01-21 21:00:00",
+        "Amount": 30.81,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 502,
+        "CustomerID": 3109,
+        "TransactionDate": "2023-01-21 22:00:00",
+        "Amount": 222.69,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 503,
+        "CustomerID": 3694,
+        "TransactionDate": "2023-01-21 23:00:00",
+        "Amount": 120.85,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 504,
+        "CustomerID": 3403,
+        "TransactionDate": "2023-01-22 00:00:00",
+        "Amount": 232.03,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 505,
+        "CustomerID": 2719,
+        "TransactionDate": "2023-01-22 01:00:00",
+        "Amount": 476.47,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 506,
+        "CustomerID": 4695,
+        "TransactionDate": "2023-01-22 02:00:00",
+        "Amount": 404.33,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 507,
+        "CustomerID": 3170,
+        "TransactionDate": "2023-01-22 03:00:00",
+        "Amount": 40.31,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 508,
+        "CustomerID": 4661,
+        "TransactionDate": "2023-01-22 04:00:00",
+        "Amount": 34.96,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 509,
+        "CustomerID": 3580,
+        "TransactionDate": "2023-01-22 05:00:00",
+        "Amount": 322.55,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 510,
+        "CustomerID": 4643,
+        "TransactionDate": "2023-01-22 06:00:00",
+        "Amount": 94.59,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 511,
+        "CustomerID": 2787,
+        "TransactionDate": "2023-01-22 07:00:00",
+        "Amount": 342.32,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 512,
+        "CustomerID": 2302,
+        "TransactionDate": "2023-01-22 08:00:00",
+        "Amount": 45.9,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 513,
+        "CustomerID": 3473,
+        "TransactionDate": "2023-01-22 09:00:00",
+        "Amount": 107.87,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 514,
+        "CustomerID": 2611,
+        "TransactionDate": "2023-01-22 10:00:00",
+        "Amount": 24.36,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 515,
+        "CustomerID": 4528,
+        "TransactionDate": "2023-01-22 11:00:00",
+        "Amount": 331.09,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 516,
+        "CustomerID": 3228,
+        "TransactionDate": "2023-01-22 12:00:00",
+        "Amount": 435.61,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 517,
+        "CustomerID": 3367,
+        "TransactionDate": "2023-01-22 13:00:00",
+        "Amount": 115.97,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 518,
+        "CustomerID": 4344,
+        "TransactionDate": "2023-01-22 14:00:00",
+        "Amount": 230.55,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 519,
+        "CustomerID": 3844,
+        "TransactionDate": "2023-01-22 15:00:00",
+        "Amount": 154.67,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 520,
+        "CustomerID": 1813,
+        "TransactionDate": "2023-01-22 16:00:00",
+        "Amount": 430.57,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 521,
+        "CustomerID": 1746,
+        "TransactionDate": "2023-01-22 17:00:00",
+        "Amount": 382.86,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 522,
+        "CustomerID": 4633,
+        "TransactionDate": "2023-01-22 18:00:00",
+        "Amount": 129.55,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 523,
+        "CustomerID": 3101,
+        "TransactionDate": "2023-01-22 19:00:00",
+        "Amount": 67.34,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 524,
+        "CustomerID": 1303,
+        "TransactionDate": "2023-01-22 20:00:00",
+        "Amount": 236.67,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 525,
+        "CustomerID": 2264,
+        "TransactionDate": "2023-01-22 21:00:00",
+        "Amount": 461.22,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 526,
+        "CustomerID": 2402,
+        "TransactionDate": "2023-01-22 22:00:00",
+        "Amount": 350.35,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 527,
+        "CustomerID": 3820,
+        "TransactionDate": "2023-01-22 23:00:00",
+        "Amount": 53.28,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 528,
+        "CustomerID": 4440,
+        "TransactionDate": "2023-01-23 00:00:00",
+        "Amount": 378.74,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 529,
+        "CustomerID": 3041,
+        "TransactionDate": "2023-01-23 01:00:00",
+        "Amount": 271.96,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 530,
+        "CustomerID": 2314,
+        "TransactionDate": "2023-01-23 02:00:00",
+        "Amount": 65.05,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 531,
+        "CustomerID": 4783,
+        "TransactionDate": "2023-01-23 03:00:00",
+        "Amount": 101.33,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 532,
+        "CustomerID": 2282,
+        "TransactionDate": "2023-01-23 04:00:00",
+        "Amount": 58.97,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 533,
+        "CustomerID": 2364,
+        "TransactionDate": "2023-01-23 05:00:00",
+        "Amount": 145.75,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 534,
+        "CustomerID": 4603,
+        "TransactionDate": "2023-01-23 06:00:00",
+        "Amount": 212.1,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 535,
+        "CustomerID": 1140,
+        "TransactionDate": "2023-01-23 07:00:00",
+        "Amount": 444.37,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 536,
+        "CustomerID": 2434,
+        "TransactionDate": "2023-01-23 08:00:00",
+        "Amount": 471.45,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 537,
+        "CustomerID": 4725,
+        "TransactionDate": "2023-01-23 09:00:00",
+        "Amount": 82.55,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 538,
+        "CustomerID": 3384,
+        "TransactionDate": "2023-01-23 10:00:00",
+        "Amount": 55.47,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 539,
+        "CustomerID": 3877,
+        "TransactionDate": "2023-01-23 11:00:00",
+        "Amount": 205.41,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 540,
+        "CustomerID": 1782,
+        "TransactionDate": "2023-01-23 12:00:00",
+        "Amount": 44.0,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 541,
+        "CustomerID": 1287,
+        "TransactionDate": "2023-01-23 13:00:00",
+        "Amount": 361.6,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 542,
+        "CustomerID": 4797,
+        "TransactionDate": "2023-01-23 14:00:00",
+        "Amount": 310.65,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 543,
+        "CustomerID": 2853,
+        "TransactionDate": "2023-01-23 15:00:00",
+        "Amount": 47.99,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 544,
+        "CustomerID": 1266,
+        "TransactionDate": "2023-01-23 16:00:00",
+        "Amount": 204.33,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 545,
+        "CustomerID": 2868,
+        "TransactionDate": "2023-01-23 17:00:00",
+        "Amount": 36.91,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 546,
+        "CustomerID": 4206,
+        "TransactionDate": "2023-01-23 18:00:00",
+        "Amount": 200.13,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 547,
+        "CustomerID": 1694,
+        "TransactionDate": "2023-01-23 19:00:00",
+        "Amount": 261.85,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 548,
+        "CustomerID": 1043,
+        "TransactionDate": "2023-01-23 20:00:00",
+        "Amount": 446.92,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 549,
+        "CustomerID": 3355,
+        "TransactionDate": "2023-01-23 21:00:00",
+        "Amount": 459.36,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 550,
+        "CustomerID": 1835,
+        "TransactionDate": "2023-01-23 22:00:00",
+        "Amount": 26.52,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 551,
+        "CustomerID": 3114,
+        "TransactionDate": "2023-01-23 23:00:00",
+        "Amount": 136.07,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 552,
+        "CustomerID": 1736,
+        "TransactionDate": "2023-01-24 00:00:00",
+        "Amount": 221.09,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 553,
+        "CustomerID": 2623,
+        "TransactionDate": "2023-01-24 01:00:00",
+        "Amount": 268.99,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 554,
+        "CustomerID": 1735,
+        "TransactionDate": "2023-01-24 02:00:00",
+        "Amount": 232.03,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 555,
+        "CustomerID": 4196,
+        "TransactionDate": "2023-01-24 03:00:00",
+        "Amount": 176.04,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 556,
+        "CustomerID": 1265,
+        "TransactionDate": "2023-01-24 04:00:00",
+        "Amount": 116.51,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 557,
+        "CustomerID": 1635,
+        "TransactionDate": "2023-01-24 05:00:00",
+        "Amount": 138.77,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 558,
+        "CustomerID": 4637,
+        "TransactionDate": "2023-01-24 06:00:00",
+        "Amount": 364.83,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 559,
+        "CustomerID": 3920,
+        "TransactionDate": "2023-01-24 07:00:00",
+        "Amount": 177.9,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 560,
+        "CustomerID": 3283,
+        "TransactionDate": "2023-01-24 08:00:00",
+        "Amount": 340.69,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 561,
+        "CustomerID": 1053,
+        "TransactionDate": "2023-01-24 09:00:00",
+        "Amount": 276.81,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 562,
+        "CustomerID": 3876,
+        "TransactionDate": "2023-01-24 10:00:00",
+        "Amount": 169.58,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 563,
+        "CustomerID": 4067,
+        "TransactionDate": "2023-01-24 11:00:00",
+        "Amount": 491.8,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 564,
+        "CustomerID": 4421,
+        "TransactionDate": "2023-01-24 12:00:00",
+        "Amount": 66.23,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 565,
+        "CustomerID": 2625,
+        "TransactionDate": "2023-01-24 13:00:00",
+        "Amount": 270.75,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 566,
+        "CustomerID": 4772,
+        "TransactionDate": "2023-01-24 14:00:00",
+        "Amount": 485.72,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 567,
+        "CustomerID": 2393,
+        "TransactionDate": "2023-01-24 15:00:00",
+        "Amount": 249.56,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 568,
+        "CustomerID": 3799,
+        "TransactionDate": "2023-01-24 16:00:00",
+        "Amount": 420.32,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 569,
+        "CustomerID": 4682,
+        "TransactionDate": "2023-01-24 17:00:00",
+        "Amount": 64.77,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 570,
+        "CustomerID": 2107,
+        "TransactionDate": "2023-01-24 18:00:00",
+        "Amount": 15.69,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 571,
+        "CustomerID": 3493,
+        "TransactionDate": "2023-01-24 19:00:00",
+        "Amount": 81.79,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 572,
+        "CustomerID": 2923,
+        "TransactionDate": "2023-01-24 20:00:00",
+        "Amount": 300.36,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 573,
+        "CustomerID": 1982,
+        "TransactionDate": "2023-01-24 21:00:00",
+        "Amount": 124.6,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 574,
+        "CustomerID": 4223,
+        "TransactionDate": "2023-01-24 22:00:00",
+        "Amount": 301.15,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 575,
+        "CustomerID": 2817,
+        "TransactionDate": "2023-01-24 23:00:00",
+        "Amount": 225.36,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 576,
+        "CustomerID": 4690,
+        "TransactionDate": "2023-01-25 00:00:00",
+        "Amount": 303.6,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 577,
+        "CustomerID": 2230,
+        "TransactionDate": "2023-01-25 01:00:00",
+        "Amount": 149.3,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 578,
+        "CustomerID": 4687,
+        "TransactionDate": "2023-01-25 02:00:00",
+        "Amount": 267.3,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 579,
+        "CustomerID": 2148,
+        "TransactionDate": "2023-01-25 03:00:00",
+        "Amount": 43.75,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 580,
+        "CustomerID": 4268,
+        "TransactionDate": "2023-01-25 04:00:00",
+        "Amount": 264.15,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 581,
+        "CustomerID": 1504,
+        "TransactionDate": "2023-01-25 05:00:00",
+        "Amount": 420.53,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 582,
+        "CustomerID": 1872,
+        "TransactionDate": "2023-01-25 06:00:00",
+        "Amount": 362.8,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 583,
+        "CustomerID": 1052,
+        "TransactionDate": "2023-01-25 07:00:00",
+        "Amount": 488.41,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 584,
+        "CustomerID": 1000,
+        "TransactionDate": "2023-01-25 08:00:00",
+        "Amount": 365.62,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 585,
+        "CustomerID": 3840,
+        "TransactionDate": "2023-01-25 09:00:00",
+        "Amount": 494.36,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 586,
+        "CustomerID": 4769,
+        "TransactionDate": "2023-01-25 10:00:00",
+        "Amount": 373.58,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 587,
+        "CustomerID": 1397,
+        "TransactionDate": "2023-01-25 11:00:00",
+        "Amount": 134.06,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 588,
+        "CustomerID": 2848,
+        "TransactionDate": "2023-01-25 12:00:00",
+        "Amount": 288.61,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 589,
+        "CustomerID": 4906,
+        "TransactionDate": "2023-01-25 13:00:00",
+        "Amount": 441.06,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 590,
+        "CustomerID": 3525,
+        "TransactionDate": "2023-01-25 14:00:00",
+        "Amount": 184.76,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 591,
+        "CustomerID": 1079,
+        "TransactionDate": "2023-01-25 15:00:00",
+        "Amount": 49.29,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 592,
+        "CustomerID": 2163,
+        "TransactionDate": "2023-01-25 16:00:00",
+        "Amount": 224.22,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 593,
+        "CustomerID": 2335,
+        "TransactionDate": "2023-01-25 17:00:00",
+        "Amount": 132.22,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 594,
+        "CustomerID": 1329,
+        "TransactionDate": "2023-01-25 18:00:00",
+        "Amount": 96.34,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 595,
+        "CustomerID": 4632,
+        "TransactionDate": "2023-01-25 19:00:00",
+        "Amount": 389.04,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 596,
+        "CustomerID": 4230,
+        "TransactionDate": "2023-01-25 20:00:00",
+        "Amount": 224.44,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 597,
+        "CustomerID": 1041,
+        "TransactionDate": "2023-01-25 21:00:00",
+        "Amount": 111.31,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 598,
+        "CustomerID": 4971,
+        "TransactionDate": "2023-01-25 22:00:00",
+        "Amount": 264.79,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 599,
+        "CustomerID": 3228,
+        "TransactionDate": "2023-01-25 23:00:00",
+        "Amount": 320.88,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 600,
+        "CustomerID": 1193,
+        "TransactionDate": "2023-01-26 00:00:00",
+        "Amount": 65.41,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 601,
+        "CustomerID": 1327,
+        "TransactionDate": "2023-01-26 01:00:00",
+        "Amount": 307.52,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 602,
+        "CustomerID": 3864,
+        "TransactionDate": "2023-01-26 02:00:00",
+        "Amount": 35.48,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 603,
+        "CustomerID": 2460,
+        "TransactionDate": "2023-01-26 03:00:00",
+        "Amount": 203.02,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 604,
+        "CustomerID": 4924,
+        "TransactionDate": "2023-01-26 04:00:00",
+        "Amount": 395.73,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 605,
+        "CustomerID": 2761,
+        "TransactionDate": "2023-01-26 05:00:00",
+        "Amount": 491.86,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 606,
+        "CustomerID": 2336,
+        "TransactionDate": "2023-01-26 06:00:00",
+        "Amount": 14.61,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 607,
+        "CustomerID": 3522,
+        "TransactionDate": "2023-01-26 07:00:00",
+        "Amount": 60.71,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 608,
+        "CustomerID": 1249,
+        "TransactionDate": "2023-01-26 08:00:00",
+        "Amount": 189.87,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 609,
+        "CustomerID": 4388,
+        "TransactionDate": "2023-01-26 09:00:00",
+        "Amount": 351.32,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 610,
+        "CustomerID": 4781,
+        "TransactionDate": "2023-01-26 10:00:00",
+        "Amount": 27.73,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 611,
+        "CustomerID": 4955,
+        "TransactionDate": "2023-01-26 11:00:00",
+        "Amount": 416.31,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 612,
+        "CustomerID": 3869,
+        "TransactionDate": "2023-01-26 12:00:00",
+        "Amount": 241.56,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 613,
+        "CustomerID": 1457,
+        "TransactionDate": "2023-01-26 13:00:00",
+        "Amount": 43.92,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 614,
+        "CustomerID": 3856,
+        "TransactionDate": "2023-01-26 14:00:00",
+        "Amount": 336.06,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 615,
+        "CustomerID": 1512,
+        "TransactionDate": "2023-01-26 15:00:00",
+        "Amount": 202.93,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 616,
+        "CustomerID": 1689,
+        "TransactionDate": "2023-01-26 16:00:00",
+        "Amount": 88.97,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 617,
+        "CustomerID": 3639,
+        "TransactionDate": "2023-01-26 17:00:00",
+        "Amount": 115.11,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 618,
+        "CustomerID": 2647,
+        "TransactionDate": "2023-01-26 18:00:00",
+        "Amount": 289.21,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 619,
+        "CustomerID": 3583,
+        "TransactionDate": "2023-01-26 19:00:00",
+        "Amount": 248.21,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 620,
+        "CustomerID": 4124,
+        "TransactionDate": "2023-01-26 20:00:00",
+        "Amount": 309.7,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 621,
+        "CustomerID": 4296,
+        "TransactionDate": "2023-01-26 21:00:00",
+        "Amount": 238.67,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 622,
+        "CustomerID": 3821,
+        "TransactionDate": "2023-01-26 22:00:00",
+        "Amount": 27.53,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 623,
+        "CustomerID": 4118,
+        "TransactionDate": "2023-01-26 23:00:00",
+        "Amount": 377.08,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 624,
+        "CustomerID": 3721,
+        "TransactionDate": "2023-01-27 00:00:00",
+        "Amount": 470.15,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 625,
+        "CustomerID": 4108,
+        "TransactionDate": "2023-01-27 01:00:00",
+        "Amount": 309.41,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 626,
+        "CustomerID": 2343,
+        "TransactionDate": "2023-01-27 02:00:00",
+        "Amount": 73.19,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 627,
+        "CustomerID": 1623,
+        "TransactionDate": "2023-01-27 03:00:00",
+        "Amount": 150.78,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 628,
+        "CustomerID": 4061,
+        "TransactionDate": "2023-01-27 04:00:00",
+        "Amount": 423.45,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 629,
+        "CustomerID": 2103,
+        "TransactionDate": "2023-01-27 05:00:00",
+        "Amount": 160.19,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 630,
+        "CustomerID": 1679,
+        "TransactionDate": "2023-01-27 06:00:00",
+        "Amount": 458.69,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 631,
+        "CustomerID": 3012,
+        "TransactionDate": "2023-01-27 07:00:00",
+        "Amount": 216.08,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 632,
+        "CustomerID": 4894,
+        "TransactionDate": "2023-01-27 08:00:00",
+        "Amount": 214.51,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 633,
+        "CustomerID": 1322,
+        "TransactionDate": "2023-01-27 09:00:00",
+        "Amount": 169.59,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 634,
+        "CustomerID": 3097,
+        "TransactionDate": "2023-01-27 10:00:00",
+        "Amount": 398.44,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 635,
+        "CustomerID": 3282,
+        "TransactionDate": "2023-01-27 11:00:00",
+        "Amount": 29.51,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 636,
+        "CustomerID": 2500,
+        "TransactionDate": "2023-01-27 12:00:00",
+        "Amount": 311.64,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 637,
+        "CustomerID": 3591,
+        "TransactionDate": "2023-01-27 13:00:00",
+        "Amount": 452.96,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 638,
+        "CustomerID": 3762,
+        "TransactionDate": "2023-01-27 14:00:00",
+        "Amount": 178.25,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 639,
+        "CustomerID": 3063,
+        "TransactionDate": "2023-01-27 15:00:00",
+        "Amount": 438.11,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 640,
+        "CustomerID": 4687,
+        "TransactionDate": "2023-01-27 16:00:00",
+        "Amount": 466.39,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 641,
+        "CustomerID": 1186,
+        "TransactionDate": "2023-01-27 17:00:00",
+        "Amount": 215.03,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 642,
+        "CustomerID": 1879,
+        "TransactionDate": "2023-01-27 18:00:00",
+        "Amount": 246.12,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 643,
+        "CustomerID": 2591,
+        "TransactionDate": "2023-01-27 19:00:00",
+        "Amount": 285.04,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 644,
+        "CustomerID": 2934,
+        "TransactionDate": "2023-01-27 20:00:00",
+        "Amount": 105.07,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 645,
+        "CustomerID": 1829,
+        "TransactionDate": "2023-01-27 21:00:00",
+        "Amount": 144.2,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 646,
+        "CustomerID": 1113,
+        "TransactionDate": "2023-01-27 22:00:00",
+        "Amount": 382.97,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 647,
+        "CustomerID": 2703,
+        "TransactionDate": "2023-01-27 23:00:00",
+        "Amount": 357.45,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 648,
+        "CustomerID": 4569,
+        "TransactionDate": "2023-01-28 00:00:00",
+        "Amount": 234.47,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 649,
+        "CustomerID": 1066,
+        "TransactionDate": "2023-01-28 01:00:00",
+        "Amount": 88.09,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 650,
+        "CustomerID": 4665,
+        "TransactionDate": "2023-01-28 02:00:00",
+        "Amount": 41.31,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 651,
+        "CustomerID": 1999,
+        "TransactionDate": "2023-01-28 03:00:00",
+        "Amount": 210.02,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 652,
+        "CustomerID": 4998,
+        "TransactionDate": "2023-01-28 04:00:00",
+        "Amount": 167.3,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 653,
+        "CustomerID": 1437,
+        "TransactionDate": "2023-01-28 05:00:00",
+        "Amount": 437.02,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 654,
+        "CustomerID": 3290,
+        "TransactionDate": "2023-01-28 06:00:00",
+        "Amount": 200.06,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 655,
+        "CustomerID": 2406,
+        "TransactionDate": "2023-01-28 07:00:00",
+        "Amount": 366.94,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 656,
+        "CustomerID": 2731,
+        "TransactionDate": "2023-01-28 08:00:00",
+        "Amount": 132.63,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 657,
+        "CustomerID": 2648,
+        "TransactionDate": "2023-01-28 09:00:00",
+        "Amount": 103.39,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 658,
+        "CustomerID": 1858,
+        "TransactionDate": "2023-01-28 10:00:00",
+        "Amount": 255.18,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 659,
+        "CustomerID": 2168,
+        "TransactionDate": "2023-01-28 11:00:00",
+        "Amount": 275.15,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 660,
+        "CustomerID": 4084,
+        "TransactionDate": "2023-01-28 12:00:00",
+        "Amount": 51.61,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 661,
+        "CustomerID": 3722,
+        "TransactionDate": "2023-01-28 13:00:00",
+        "Amount": 9.78,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 662,
+        "CustomerID": 1114,
+        "TransactionDate": "2023-01-28 14:00:00",
+        "Amount": 321.55,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 663,
+        "CustomerID": 2307,
+        "TransactionDate": "2023-01-28 15:00:00",
+        "Amount": 94.73,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 664,
+        "CustomerID": 3446,
+        "TransactionDate": "2023-01-28 16:00:00",
+        "Amount": 223.03,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 665,
+        "CustomerID": 1641,
+        "TransactionDate": "2023-01-28 17:00:00",
+        "Amount": 472.02,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 666,
+        "CustomerID": 1628,
+        "TransactionDate": "2023-01-28 18:00:00",
+        "Amount": 364.32,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 667,
+        "CustomerID": 1850,
+        "TransactionDate": "2023-01-28 19:00:00",
+        "Amount": 44.46,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 668,
+        "CustomerID": 1008,
+        "TransactionDate": "2023-01-28 20:00:00",
+        "Amount": 245.49,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 669,
+        "CustomerID": 2410,
+        "TransactionDate": "2023-01-28 21:00:00",
+        "Amount": 415.18,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 670,
+        "CustomerID": 2407,
+        "TransactionDate": "2023-01-28 22:00:00",
+        "Amount": 215.78,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 671,
+        "CustomerID": 1489,
+        "TransactionDate": "2023-01-28 23:00:00",
+        "Amount": 419.09,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 672,
+        "CustomerID": 4296,
+        "TransactionDate": "2023-01-29 00:00:00",
+        "Amount": 437.36,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 673,
+        "CustomerID": 4075,
+        "TransactionDate": "2023-01-29 01:00:00",
+        "Amount": 67.13,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 674,
+        "CustomerID": 2619,
+        "TransactionDate": "2023-01-29 02:00:00",
+        "Amount": 286.97,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 675,
+        "CustomerID": 4400,
+        "TransactionDate": "2023-01-29 03:00:00",
+        "Amount": 240.14,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 676,
+        "CustomerID": 4677,
+        "TransactionDate": "2023-01-29 04:00:00",
+        "Amount": 212.57,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 677,
+        "CustomerID": 1253,
+        "TransactionDate": "2023-01-29 05:00:00",
+        "Amount": 200.66,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 678,
+        "CustomerID": 4588,
+        "TransactionDate": "2023-01-29 06:00:00",
+        "Amount": 436.81,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 679,
+        "CustomerID": 4184,
+        "TransactionDate": "2023-01-29 07:00:00",
+        "Amount": 385.05,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 680,
+        "CustomerID": 4897,
+        "TransactionDate": "2023-01-29 08:00:00",
+        "Amount": 480.03,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 681,
+        "CustomerID": 3585,
+        "TransactionDate": "2023-01-29 09:00:00",
+        "Amount": 130.46,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 682,
+        "CustomerID": 2474,
+        "TransactionDate": "2023-01-29 10:00:00",
+        "Amount": 472.41,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 683,
+        "CustomerID": 1326,
+        "TransactionDate": "2023-01-29 11:00:00",
+        "Amount": 487.36,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 684,
+        "CustomerID": 3168,
+        "TransactionDate": "2023-01-29 12:00:00",
+        "Amount": 204.57,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 685,
+        "CustomerID": 2782,
+        "TransactionDate": "2023-01-29 13:00:00",
+        "Amount": 172.2,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 686,
+        "CustomerID": 1109,
+        "TransactionDate": "2023-01-29 14:00:00",
+        "Amount": 415.37,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 687,
+        "CustomerID": 2978,
+        "TransactionDate": "2023-01-29 15:00:00",
+        "Amount": 424.94,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 688,
+        "CustomerID": 1323,
+        "TransactionDate": "2023-01-29 16:00:00",
+        "Amount": 258.85,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 689,
+        "CustomerID": 3920,
+        "TransactionDate": "2023-01-29 17:00:00",
+        "Amount": 128.92,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 690,
+        "CustomerID": 4821,
+        "TransactionDate": "2023-01-29 18:00:00",
+        "Amount": 421.47,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 691,
+        "CustomerID": 2167,
+        "TransactionDate": "2023-01-29 19:00:00",
+        "Amount": 67.98,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 692,
+        "CustomerID": 3501,
+        "TransactionDate": "2023-01-29 20:00:00",
+        "Amount": 388.46,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 693,
+        "CustomerID": 2558,
+        "TransactionDate": "2023-01-29 21:00:00",
+        "Amount": 495.92,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 694,
+        "CustomerID": 2942,
+        "TransactionDate": "2023-01-29 22:00:00",
+        "Amount": 247.87,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 695,
+        "CustomerID": 1605,
+        "TransactionDate": "2023-01-29 23:00:00",
+        "Amount": 95.88,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 696,
+        "CustomerID": 1063,
+        "TransactionDate": "2023-01-30 00:00:00",
+        "Amount": 8.54,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 697,
+        "CustomerID": 3230,
+        "TransactionDate": "2023-01-30 01:00:00",
+        "Amount": 238.33,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 698,
+        "CustomerID": 4247,
+        "TransactionDate": "2023-01-30 02:00:00",
+        "Amount": 188.37,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 699,
+        "CustomerID": 1614,
+        "TransactionDate": "2023-01-30 03:00:00",
+        "Amount": 393.34,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 700,
+        "CustomerID": 4666,
+        "TransactionDate": "2023-01-30 04:00:00",
+        "Amount": 235.57,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 701,
+        "CustomerID": 2543,
+        "TransactionDate": "2023-01-30 05:00:00",
+        "Amount": 360.79,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 702,
+        "CustomerID": 2110,
+        "TransactionDate": "2023-01-30 06:00:00",
+        "Amount": 460.6,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 703,
+        "CustomerID": 2747,
+        "TransactionDate": "2023-01-30 07:00:00",
+        "Amount": 445.38,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 704,
+        "CustomerID": 2907,
+        "TransactionDate": "2023-01-30 08:00:00",
+        "Amount": 389.53,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 705,
+        "CustomerID": 4269,
+        "TransactionDate": "2023-01-30 09:00:00",
+        "Amount": 482.84,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 706,
+        "CustomerID": 1083,
+        "TransactionDate": "2023-01-30 10:00:00",
+        "Amount": 411.45,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 707,
+        "CustomerID": 1451,
+        "TransactionDate": "2023-01-30 11:00:00",
+        "Amount": 206.97,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 708,
+        "CustomerID": 2694,
+        "TransactionDate": "2023-01-30 12:00:00",
+        "Amount": 111.26,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 709,
+        "CustomerID": 3514,
+        "TransactionDate": "2023-01-30 13:00:00",
+        "Amount": 382.96,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 710,
+        "CustomerID": 3922,
+        "TransactionDate": "2023-01-30 14:00:00",
+        "Amount": 436.27,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 711,
+        "CustomerID": 3620,
+        "TransactionDate": "2023-01-30 15:00:00",
+        "Amount": 420.67,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 712,
+        "CustomerID": 4455,
+        "TransactionDate": "2023-01-30 16:00:00",
+        "Amount": 415.46,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 713,
+        "CustomerID": 3512,
+        "TransactionDate": "2023-01-30 17:00:00",
+        "Amount": 185.72,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 714,
+        "CustomerID": 3844,
+        "TransactionDate": "2023-01-30 18:00:00",
+        "Amount": 134.51,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 715,
+        "CustomerID": 1068,
+        "TransactionDate": "2023-01-30 19:00:00",
+        "Amount": 386.76,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 716,
+        "CustomerID": 2311,
+        "TransactionDate": "2023-01-30 20:00:00",
+        "Amount": 343.5,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 717,
+        "CustomerID": 4053,
+        "TransactionDate": "2023-01-30 21:00:00",
+        "Amount": 272.42,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 718,
+        "CustomerID": 3541,
+        "TransactionDate": "2023-01-30 22:00:00",
+        "Amount": 407.15,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 719,
+        "CustomerID": 3353,
+        "TransactionDate": "2023-01-30 23:00:00",
+        "Amount": 382.07,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 720,
+        "CustomerID": 2478,
+        "TransactionDate": "2023-01-31 00:00:00",
+        "Amount": 180.46,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 721,
+        "CustomerID": 4134,
+        "TransactionDate": "2023-01-31 01:00:00",
+        "Amount": 446.91,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 722,
+        "CustomerID": 3672,
+        "TransactionDate": "2023-01-31 02:00:00",
+        "Amount": 57.46,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 723,
+        "CustomerID": 1658,
+        "TransactionDate": "2023-01-31 03:00:00",
+        "Amount": 366.47,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 724,
+        "CustomerID": 4158,
+        "TransactionDate": "2023-01-31 04:00:00",
+        "Amount": 298.81,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 725,
+        "CustomerID": 3704,
+        "TransactionDate": "2023-01-31 05:00:00",
+        "Amount": 391.71,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 726,
+        "CustomerID": 2169,
+        "TransactionDate": "2023-01-31 06:00:00",
+        "Amount": 104.02,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 727,
+        "CustomerID": 4790,
+        "TransactionDate": "2023-01-31 07:00:00",
+        "Amount": 250.57,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 728,
+        "CustomerID": 3448,
+        "TransactionDate": "2023-01-31 08:00:00",
+        "Amount": 38.33,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 729,
+        "CustomerID": 4734,
+        "TransactionDate": "2023-01-31 09:00:00",
+        "Amount": 384.99,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 730,
+        "CustomerID": 3664,
+        "TransactionDate": "2023-01-31 10:00:00",
+        "Amount": 358.32,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 731,
+        "CustomerID": 2253,
+        "TransactionDate": "2023-01-31 11:00:00",
+        "Amount": 120.42,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 732,
+        "CustomerID": 2716,
+        "TransactionDate": "2023-01-31 12:00:00",
+        "Amount": 209.84,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 733,
+        "CustomerID": 4410,
+        "TransactionDate": "2023-01-31 13:00:00",
+        "Amount": 185.14,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 734,
+        "CustomerID": 4100,
+        "TransactionDate": "2023-01-31 14:00:00",
+        "Amount": 487.6,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 735,
+        "CustomerID": 3603,
+        "TransactionDate": "2023-01-31 15:00:00",
+        "Amount": 150.82,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 736,
+        "CustomerID": 1384,
+        "TransactionDate": "2023-01-31 16:00:00",
+        "Amount": 348.78,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 737,
+        "CustomerID": 3611,
+        "TransactionDate": "2023-01-31 17:00:00",
+        "Amount": 272.47,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 738,
+        "CustomerID": 3448,
+        "TransactionDate": "2023-01-31 18:00:00",
+        "Amount": 193.13,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 739,
+        "CustomerID": 4577,
+        "TransactionDate": "2023-01-31 19:00:00",
+        "Amount": 360.76,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 740,
+        "CustomerID": 3111,
+        "TransactionDate": "2023-01-31 20:00:00",
+        "Amount": 83.07,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 741,
+        "CustomerID": 1660,
+        "TransactionDate": "2023-01-31 21:00:00",
+        "Amount": 246.29,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 742,
+        "CustomerID": 1033,
+        "TransactionDate": "2023-01-31 22:00:00",
+        "Amount": 114.21,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 743,
+        "CustomerID": 3205,
+        "TransactionDate": "2023-01-31 23:00:00",
+        "Amount": 324.69,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 744,
+        "CustomerID": 3351,
+        "TransactionDate": "2023-02-01 00:00:00",
+        "Amount": 153.8,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 745,
+        "CustomerID": 2806,
+        "TransactionDate": "2023-02-01 01:00:00",
+        "Amount": 152.02,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 746,
+        "CustomerID": 4932,
+        "TransactionDate": "2023-02-01 02:00:00",
+        "Amount": 12.71,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 747,
+        "CustomerID": 3329,
+        "TransactionDate": "2023-02-01 03:00:00",
+        "Amount": 327.11,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 748,
+        "CustomerID": 1962,
+        "TransactionDate": "2023-02-01 04:00:00",
+        "Amount": 469.8,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 749,
+        "CustomerID": 3047,
+        "TransactionDate": "2023-02-01 05:00:00",
+        "Amount": 325.44,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 750,
+        "CustomerID": 2024,
+        "TransactionDate": "2023-02-01 06:00:00",
+        "Amount": 335.46,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 751,
+        "CustomerID": 1492,
+        "TransactionDate": "2023-02-01 07:00:00",
+        "Amount": 77.16,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 752,
+        "CustomerID": 2439,
+        "TransactionDate": "2023-02-01 08:00:00",
+        "Amount": 178.52,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 753,
+        "CustomerID": 1768,
+        "TransactionDate": "2023-02-01 09:00:00",
+        "Amount": 487.31,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 754,
+        "CustomerID": 2786,
+        "TransactionDate": "2023-02-01 10:00:00",
+        "Amount": 174.58,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 755,
+        "CustomerID": 4130,
+        "TransactionDate": "2023-02-01 11:00:00",
+        "Amount": 335.59,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 756,
+        "CustomerID": 2230,
+        "TransactionDate": "2023-02-01 12:00:00",
+        "Amount": 166.29,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 757,
+        "CustomerID": 2825,
+        "TransactionDate": "2023-02-01 13:00:00",
+        "Amount": 219.58,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 758,
+        "CustomerID": 2353,
+        "TransactionDate": "2023-02-01 14:00:00",
+        "Amount": 20.81,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 759,
+        "CustomerID": 3735,
+        "TransactionDate": "2023-02-01 15:00:00",
+        "Amount": 170.03,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 760,
+        "CustomerID": 1584,
+        "TransactionDate": "2023-02-01 16:00:00",
+        "Amount": 289.98,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 761,
+        "CustomerID": 1107,
+        "TransactionDate": "2023-02-01 17:00:00",
+        "Amount": 350.35,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 762,
+        "CustomerID": 1955,
+        "TransactionDate": "2023-02-01 18:00:00",
+        "Amount": 393.78,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 763,
+        "CustomerID": 1894,
+        "TransactionDate": "2023-02-01 19:00:00",
+        "Amount": 253.4,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 764,
+        "CustomerID": 1542,
+        "TransactionDate": "2023-02-01 20:00:00",
+        "Amount": 499.63,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 765,
+        "CustomerID": 4720,
+        "TransactionDate": "2023-02-01 21:00:00",
+        "Amount": 371.63,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 766,
+        "CustomerID": 4011,
+        "TransactionDate": "2023-02-01 22:00:00",
+        "Amount": 113.61,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 767,
+        "CustomerID": 4712,
+        "TransactionDate": "2023-02-01 23:00:00",
+        "Amount": 58.25,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 768,
+        "CustomerID": 3647,
+        "TransactionDate": "2023-02-02 00:00:00",
+        "Amount": 359.56,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 769,
+        "CustomerID": 2387,
+        "TransactionDate": "2023-02-02 01:00:00",
+        "Amount": 448.05,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 770,
+        "CustomerID": 2492,
+        "TransactionDate": "2023-02-02 02:00:00",
+        "Amount": 92.14,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 771,
+        "CustomerID": 1175,
+        "TransactionDate": "2023-02-02 03:00:00",
+        "Amount": 387.12,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 772,
+        "CustomerID": 1386,
+        "TransactionDate": "2023-02-02 04:00:00",
+        "Amount": 127.33,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 773,
+        "CustomerID": 4494,
+        "TransactionDate": "2023-02-02 05:00:00",
+        "Amount": 173.85,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 774,
+        "CustomerID": 2022,
+        "TransactionDate": "2023-02-02 06:00:00",
+        "Amount": 106.52,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 775,
+        "CustomerID": 1872,
+        "TransactionDate": "2023-02-02 07:00:00",
+        "Amount": 357.32,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 776,
+        "CustomerID": 2932,
+        "TransactionDate": "2023-02-02 08:00:00",
+        "Amount": 433.31,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 777,
+        "CustomerID": 3350,
+        "TransactionDate": "2023-02-02 09:00:00",
+        "Amount": 218.95,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 778,
+        "CustomerID": 2793,
+        "TransactionDate": "2023-02-02 10:00:00",
+        "Amount": 136.25,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 779,
+        "CustomerID": 1510,
+        "TransactionDate": "2023-02-02 11:00:00",
+        "Amount": 129.23,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 780,
+        "CustomerID": 2197,
+        "TransactionDate": "2023-02-02 12:00:00",
+        "Amount": 20.31,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 781,
+        "CustomerID": 4288,
+        "TransactionDate": "2023-02-02 13:00:00",
+        "Amount": 368.74,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 782,
+        "CustomerID": 4294,
+        "TransactionDate": "2023-02-02 14:00:00",
+        "Amount": 261.04,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 783,
+        "CustomerID": 3777,
+        "TransactionDate": "2023-02-02 15:00:00",
+        "Amount": 407.06,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 784,
+        "CustomerID": 1829,
+        "TransactionDate": "2023-02-02 16:00:00",
+        "Amount": 267.42,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 785,
+        "CustomerID": 2440,
+        "TransactionDate": "2023-02-02 17:00:00",
+        "Amount": 422.59,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 786,
+        "CustomerID": 4502,
+        "TransactionDate": "2023-02-02 18:00:00",
+        "Amount": 314.13,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 787,
+        "CustomerID": 2322,
+        "TransactionDate": "2023-02-02 19:00:00",
+        "Amount": 121.86,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 788,
+        "CustomerID": 1377,
+        "TransactionDate": "2023-02-02 20:00:00",
+        "Amount": 273.3,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 789,
+        "CustomerID": 4413,
+        "TransactionDate": "2023-02-02 21:00:00",
+        "Amount": 240.84,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 790,
+        "CustomerID": 2429,
+        "TransactionDate": "2023-02-02 22:00:00",
+        "Amount": 176.7,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 791,
+        "CustomerID": 2830,
+        "TransactionDate": "2023-02-02 23:00:00",
+        "Amount": 121.55,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 792,
+        "CustomerID": 2274,
+        "TransactionDate": "2023-02-03 00:00:00",
+        "Amount": 488.22,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 793,
+        "CustomerID": 2401,
+        "TransactionDate": "2023-02-03 01:00:00",
+        "Amount": 482.85,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 794,
+        "CustomerID": 2819,
+        "TransactionDate": "2023-02-03 02:00:00",
+        "Amount": 163.75,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 795,
+        "CustomerID": 3998,
+        "TransactionDate": "2023-02-03 03:00:00",
+        "Amount": 58.38,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 796,
+        "CustomerID": 2683,
+        "TransactionDate": "2023-02-03 04:00:00",
+        "Amount": 58.38,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 797,
+        "CustomerID": 1087,
+        "TransactionDate": "2023-02-03 05:00:00",
+        "Amount": 111.7,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 798,
+        "CustomerID": 2791,
+        "TransactionDate": "2023-02-03 06:00:00",
+        "Amount": 147.01,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 799,
+        "CustomerID": 1118,
+        "TransactionDate": "2023-02-03 07:00:00",
+        "Amount": 272.42,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 800,
+        "CustomerID": 3233,
+        "TransactionDate": "2023-02-03 08:00:00",
+        "Amount": 297.55,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 801,
+        "CustomerID": 2125,
+        "TransactionDate": "2023-02-03 09:00:00",
+        "Amount": 144.44,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 802,
+        "CustomerID": 3143,
+        "TransactionDate": "2023-02-03 10:00:00",
+        "Amount": 310.88,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 803,
+        "CustomerID": 4189,
+        "TransactionDate": "2023-02-03 11:00:00",
+        "Amount": 115.13,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 804,
+        "CustomerID": 1967,
+        "TransactionDate": "2023-02-03 12:00:00",
+        "Amount": 253.94,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 805,
+        "CustomerID": 4688,
+        "TransactionDate": "2023-02-03 13:00:00",
+        "Amount": 49.84,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 806,
+        "CustomerID": 3702,
+        "TransactionDate": "2023-02-03 14:00:00",
+        "Amount": 103.95,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 807,
+        "CustomerID": 1999,
+        "TransactionDate": "2023-02-03 15:00:00",
+        "Amount": 405.36,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 808,
+        "CustomerID": 3679,
+        "TransactionDate": "2023-02-03 16:00:00",
+        "Amount": 134.18,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 809,
+        "CustomerID": 1818,
+        "TransactionDate": "2023-02-03 17:00:00",
+        "Amount": 365.92,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 810,
+        "CustomerID": 2221,
+        "TransactionDate": "2023-02-03 18:00:00",
+        "Amount": 255.65,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 811,
+        "CustomerID": 2989,
+        "TransactionDate": "2023-02-03 19:00:00",
+        "Amount": 430.99,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 812,
+        "CustomerID": 4155,
+        "TransactionDate": "2023-02-03 20:00:00",
+        "Amount": 284.62,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 813,
+        "CustomerID": 2281,
+        "TransactionDate": "2023-02-03 21:00:00",
+        "Amount": 297.83,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 814,
+        "CustomerID": 4050,
+        "TransactionDate": "2023-02-03 22:00:00",
+        "Amount": 24.49,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 815,
+        "CustomerID": 2357,
+        "TransactionDate": "2023-02-03 23:00:00",
+        "Amount": 386.77,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 816,
+        "CustomerID": 1040,
+        "TransactionDate": "2023-02-04 00:00:00",
+        "Amount": 331.19,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 817,
+        "CustomerID": 2498,
+        "TransactionDate": "2023-02-04 01:00:00",
+        "Amount": 211.94,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 818,
+        "CustomerID": 4490,
+        "TransactionDate": "2023-02-04 02:00:00",
+        "Amount": 402.2,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 819,
+        "CustomerID": 4678,
+        "TransactionDate": "2023-02-04 03:00:00",
+        "Amount": 431.67,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 820,
+        "CustomerID": 4700,
+        "TransactionDate": "2023-02-04 04:00:00",
+        "Amount": 356.69,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 821,
+        "CustomerID": 2348,
+        "TransactionDate": "2023-02-04 05:00:00",
+        "Amount": 417.04,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 822,
+        "CustomerID": 3633,
+        "TransactionDate": "2023-02-04 06:00:00",
+        "Amount": 125.42,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 823,
+        "CustomerID": 3918,
+        "TransactionDate": "2023-02-04 07:00:00",
+        "Amount": 74.22,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 824,
+        "CustomerID": 3967,
+        "TransactionDate": "2023-02-04 08:00:00",
+        "Amount": 172.92,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 825,
+        "CustomerID": 4059,
+        "TransactionDate": "2023-02-04 09:00:00",
+        "Amount": 305.96,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 826,
+        "CustomerID": 3522,
+        "TransactionDate": "2023-02-04 10:00:00",
+        "Amount": 233.7,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 827,
+        "CustomerID": 4244,
+        "TransactionDate": "2023-02-04 11:00:00",
+        "Amount": 61.95,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 828,
+        "CustomerID": 3378,
+        "TransactionDate": "2023-02-04 12:00:00",
+        "Amount": 421.89,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 829,
+        "CustomerID": 2069,
+        "TransactionDate": "2023-02-04 13:00:00",
+        "Amount": 5.59,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 830,
+        "CustomerID": 4467,
+        "TransactionDate": "2023-02-04 14:00:00",
+        "Amount": 188.11,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 831,
+        "CustomerID": 4078,
+        "TransactionDate": "2023-02-04 15:00:00",
+        "Amount": 169.87,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 832,
+        "CustomerID": 3602,
+        "TransactionDate": "2023-02-04 16:00:00",
+        "Amount": 295.6,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 833,
+        "CustomerID": 2936,
+        "TransactionDate": "2023-02-04 17:00:00",
+        "Amount": 408.45,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 834,
+        "CustomerID": 3945,
+        "TransactionDate": "2023-02-04 18:00:00",
+        "Amount": 23.33,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 835,
+        "CustomerID": 2887,
+        "TransactionDate": "2023-02-04 19:00:00",
+        "Amount": 300.05,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 836,
+        "CustomerID": 1480,
+        "TransactionDate": "2023-02-04 20:00:00",
+        "Amount": 328.16,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 837,
+        "CustomerID": 3498,
+        "TransactionDate": "2023-02-04 21:00:00",
+        "Amount": 397.04,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 838,
+        "CustomerID": 2822,
+        "TransactionDate": "2023-02-04 22:00:00",
+        "Amount": 195.6,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 839,
+        "CustomerID": 2966,
+        "TransactionDate": "2023-02-04 23:00:00",
+        "Amount": 141.15,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 840,
+        "CustomerID": 3806,
+        "TransactionDate": "2023-02-05 00:00:00",
+        "Amount": 416.8,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 841,
+        "CustomerID": 2563,
+        "TransactionDate": "2023-02-05 01:00:00",
+        "Amount": 180.02,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 842,
+        "CustomerID": 4771,
+        "TransactionDate": "2023-02-05 02:00:00",
+        "Amount": 409.17,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 843,
+        "CustomerID": 3861,
+        "TransactionDate": "2023-02-05 03:00:00",
+        "Amount": 286.66,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 844,
+        "CustomerID": 4582,
+        "TransactionDate": "2023-02-05 04:00:00",
+        "Amount": 267.74,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 845,
+        "CustomerID": 1632,
+        "TransactionDate": "2023-02-05 05:00:00",
+        "Amount": 11.68,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 846,
+        "CustomerID": 1213,
+        "TransactionDate": "2023-02-05 06:00:00",
+        "Amount": 318.92,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 847,
+        "CustomerID": 4361,
+        "TransactionDate": "2023-02-05 07:00:00",
+        "Amount": 345.22,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 848,
+        "CustomerID": 4217,
+        "TransactionDate": "2023-02-05 08:00:00",
+        "Amount": 145.7,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 849,
+        "CustomerID": 3267,
+        "TransactionDate": "2023-02-05 09:00:00",
+        "Amount": 170.35,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 850,
+        "CustomerID": 2511,
+        "TransactionDate": "2023-02-05 10:00:00",
+        "Amount": 474.17,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 851,
+        "CustomerID": 1274,
+        "TransactionDate": "2023-02-05 11:00:00",
+        "Amount": 267.96,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 852,
+        "CustomerID": 2014,
+        "TransactionDate": "2023-02-05 12:00:00",
+        "Amount": 128.74,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 853,
+        "CustomerID": 2624,
+        "TransactionDate": "2023-02-05 13:00:00",
+        "Amount": 427.78,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 854,
+        "CustomerID": 2960,
+        "TransactionDate": "2023-02-05 14:00:00",
+        "Amount": 36.44,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 855,
+        "CustomerID": 2974,
+        "TransactionDate": "2023-02-05 15:00:00",
+        "Amount": 163.11,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 856,
+        "CustomerID": 4698,
+        "TransactionDate": "2023-02-05 16:00:00",
+        "Amount": 495.98,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 857,
+        "CustomerID": 3654,
+        "TransactionDate": "2023-02-05 17:00:00",
+        "Amount": 300.19,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 858,
+        "CustomerID": 2150,
+        "TransactionDate": "2023-02-05 18:00:00",
+        "Amount": 26.65,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 859,
+        "CustomerID": 1899,
+        "TransactionDate": "2023-02-05 19:00:00",
+        "Amount": 199.66,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 860,
+        "CustomerID": 2814,
+        "TransactionDate": "2023-02-05 20:00:00",
+        "Amount": 190.53,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 861,
+        "CustomerID": 3965,
+        "TransactionDate": "2023-02-05 21:00:00",
+        "Amount": 456.67,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 862,
+        "CustomerID": 3181,
+        "TransactionDate": "2023-02-05 22:00:00",
+        "Amount": 36.0,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 863,
+        "CustomerID": 4135,
+        "TransactionDate": "2023-02-05 23:00:00",
+        "Amount": 290.44,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 864,
+        "CustomerID": 2184,
+        "TransactionDate": "2023-02-06 00:00:00",
+        "Amount": 302.98,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 865,
+        "CustomerID": 3365,
+        "TransactionDate": "2023-02-06 01:00:00",
+        "Amount": 24.86,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 866,
+        "CustomerID": 1299,
+        "TransactionDate": "2023-02-06 02:00:00",
+        "Amount": 422.46,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 867,
+        "CustomerID": 2220,
+        "TransactionDate": "2023-02-06 03:00:00",
+        "Amount": 499.1,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 868,
+        "CustomerID": 4040,
+        "TransactionDate": "2023-02-06 04:00:00",
+        "Amount": 409.27,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 869,
+        "CustomerID": 3599,
+        "TransactionDate": "2023-02-06 05:00:00",
+        "Amount": 310.26,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 870,
+        "CustomerID": 2043,
+        "TransactionDate": "2023-02-06 06:00:00",
+        "Amount": 398.4,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 871,
+        "CustomerID": 4617,
+        "TransactionDate": "2023-02-06 07:00:00",
+        "Amount": 11.78,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 872,
+        "CustomerID": 2567,
+        "TransactionDate": "2023-02-06 08:00:00",
+        "Amount": 338.5,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 873,
+        "CustomerID": 1253,
+        "TransactionDate": "2023-02-06 09:00:00",
+        "Amount": 320.16,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 874,
+        "CustomerID": 4176,
+        "TransactionDate": "2023-02-06 10:00:00",
+        "Amount": 388.2,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 875,
+        "CustomerID": 1283,
+        "TransactionDate": "2023-02-06 11:00:00",
+        "Amount": 396.56,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 876,
+        "CustomerID": 2491,
+        "TransactionDate": "2023-02-06 12:00:00",
+        "Amount": 447.47,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 877,
+        "CustomerID": 3720,
+        "TransactionDate": "2023-02-06 13:00:00",
+        "Amount": 218.01,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 878,
+        "CustomerID": 1935,
+        "TransactionDate": "2023-02-06 14:00:00",
+        "Amount": 54.45,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 879,
+        "CustomerID": 3196,
+        "TransactionDate": "2023-02-06 15:00:00",
+        "Amount": 85.49,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 880,
+        "CustomerID": 1455,
+        "TransactionDate": "2023-02-06 16:00:00",
+        "Amount": 88.45,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 881,
+        "CustomerID": 3545,
+        "TransactionDate": "2023-02-06 17:00:00",
+        "Amount": 180.84,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 882,
+        "CustomerID": 1907,
+        "TransactionDate": "2023-02-06 18:00:00",
+        "Amount": 149.64,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 883,
+        "CustomerID": 3200,
+        "TransactionDate": "2023-02-06 19:00:00",
+        "Amount": 457.39,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 884,
+        "CustomerID": 2437,
+        "TransactionDate": "2023-02-06 20:00:00",
+        "Amount": 275.05,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 885,
+        "CustomerID": 3897,
+        "TransactionDate": "2023-02-06 21:00:00",
+        "Amount": 174.12,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 886,
+        "CustomerID": 4369,
+        "TransactionDate": "2023-02-06 22:00:00",
+        "Amount": 354.14,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 887,
+        "CustomerID": 3103,
+        "TransactionDate": "2023-02-06 23:00:00",
+        "Amount": 316.16,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 888,
+        "CustomerID": 2629,
+        "TransactionDate": "2023-02-07 00:00:00",
+        "Amount": 367.49,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 889,
+        "CustomerID": 1230,
+        "TransactionDate": "2023-02-07 01:00:00",
+        "Amount": 294.5,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 890,
+        "CustomerID": 1104,
+        "TransactionDate": "2023-02-07 02:00:00",
+        "Amount": 462.61,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 891,
+        "CustomerID": 4121,
+        "TransactionDate": "2023-02-07 03:00:00",
+        "Amount": 177.74,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 892,
+        "CustomerID": 2528,
+        "TransactionDate": "2023-02-07 04:00:00",
+        "Amount": 472.99,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 893,
+        "CustomerID": 3718,
+        "TransactionDate": "2023-02-07 05:00:00",
+        "Amount": 198.73,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 894,
+        "CustomerID": 2633,
+        "TransactionDate": "2023-02-07 06:00:00",
+        "Amount": 31.51,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 895,
+        "CustomerID": 2261,
+        "TransactionDate": "2023-02-07 07:00:00",
+        "Amount": 304.54,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 896,
+        "CustomerID": 4984,
+        "TransactionDate": "2023-02-07 08:00:00",
+        "Amount": 54.7,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 897,
+        "CustomerID": 4261,
+        "TransactionDate": "2023-02-07 09:00:00",
+        "Amount": 330.84,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 898,
+        "CustomerID": 4867,
+        "TransactionDate": "2023-02-07 10:00:00",
+        "Amount": 397.33,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 899,
+        "CustomerID": 2768,
+        "TransactionDate": "2023-02-07 11:00:00",
+        "Amount": 461.32,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 900,
+        "CustomerID": 3875,
+        "TransactionDate": "2023-02-07 12:00:00",
+        "Amount": 183.38,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 901,
+        "CustomerID": 1643,
+        "TransactionDate": "2023-02-07 13:00:00",
+        "Amount": 171.86,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 902,
+        "CustomerID": 3916,
+        "TransactionDate": "2023-02-07 14:00:00",
+        "Amount": 420.34,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 903,
+        "CustomerID": 3521,
+        "TransactionDate": "2023-02-07 15:00:00",
+        "Amount": 343.39,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 904,
+        "CustomerID": 4438,
+        "TransactionDate": "2023-02-07 16:00:00",
+        "Amount": 160.84,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 905,
+        "CustomerID": 2271,
+        "TransactionDate": "2023-02-07 17:00:00",
+        "Amount": 104.22,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 906,
+        "CustomerID": 3361,
+        "TransactionDate": "2023-02-07 18:00:00",
+        "Amount": 311.07,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 907,
+        "CustomerID": 3376,
+        "TransactionDate": "2023-02-07 19:00:00",
+        "Amount": 277.5,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 908,
+        "CustomerID": 4703,
+        "TransactionDate": "2023-02-07 20:00:00",
+        "Amount": 205.26,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 909,
+        "CustomerID": 2161,
+        "TransactionDate": "2023-02-07 21:00:00",
+        "Amount": 174.93,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 910,
+        "CustomerID": 2496,
+        "TransactionDate": "2023-02-07 22:00:00",
+        "Amount": 439.25,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 911,
+        "CustomerID": 1702,
+        "TransactionDate": "2023-02-07 23:00:00",
+        "Amount": 107.61,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 912,
+        "CustomerID": 1621,
+        "TransactionDate": "2023-02-08 00:00:00",
+        "Amount": 356.38,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 913,
+        "CustomerID": 4027,
+        "TransactionDate": "2023-02-08 01:00:00",
+        "Amount": 258.97,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 914,
+        "CustomerID": 2519,
+        "TransactionDate": "2023-02-08 02:00:00",
+        "Amount": 191.16,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 915,
+        "CustomerID": 3931,
+        "TransactionDate": "2023-02-08 03:00:00",
+        "Amount": 470.5,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 916,
+        "CustomerID": 4804,
+        "TransactionDate": "2023-02-08 04:00:00",
+        "Amount": 185.69,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 917,
+        "CustomerID": 4832,
+        "TransactionDate": "2023-02-08 05:00:00",
+        "Amount": 124.75,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 918,
+        "CustomerID": 4378,
+        "TransactionDate": "2023-02-08 06:00:00",
+        "Amount": 62.2,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 919,
+        "CustomerID": 2376,
+        "TransactionDate": "2023-02-08 07:00:00",
+        "Amount": 205.24,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 920,
+        "CustomerID": 1618,
+        "TransactionDate": "2023-02-08 08:00:00",
+        "Amount": 231.5,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 921,
+        "CustomerID": 4967,
+        "TransactionDate": "2023-02-08 09:00:00",
+        "Amount": 274.39,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 922,
+        "CustomerID": 1678,
+        "TransactionDate": "2023-02-08 10:00:00",
+        "Amount": 433.86,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 923,
+        "CustomerID": 1070,
+        "TransactionDate": "2023-02-08 11:00:00",
+        "Amount": 258.4,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 924,
+        "CustomerID": 3696,
+        "TransactionDate": "2023-02-08 12:00:00",
+        "Amount": 496.36,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 925,
+        "CustomerID": 2158,
+        "TransactionDate": "2023-02-08 13:00:00",
+        "Amount": 78.87,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 926,
+        "CustomerID": 3832,
+        "TransactionDate": "2023-02-08 14:00:00",
+        "Amount": 229.9,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 927,
+        "CustomerID": 2637,
+        "TransactionDate": "2023-02-08 15:00:00",
+        "Amount": 143.77,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 928,
+        "CustomerID": 1065,
+        "TransactionDate": "2023-02-08 16:00:00",
+        "Amount": 121.87,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 929,
+        "CustomerID": 3862,
+        "TransactionDate": "2023-02-08 17:00:00",
+        "Amount": 33.9,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 930,
+        "CustomerID": 4212,
+        "TransactionDate": "2023-02-08 18:00:00",
+        "Amount": 407.75,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 931,
+        "CustomerID": 2645,
+        "TransactionDate": "2023-02-08 19:00:00",
+        "Amount": 339.61,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 932,
+        "CustomerID": 4107,
+        "TransactionDate": "2023-02-08 20:00:00",
+        "Amount": 55.78,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 933,
+        "CustomerID": 4882,
+        "TransactionDate": "2023-02-08 21:00:00",
+        "Amount": 487.39,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 934,
+        "CustomerID": 1418,
+        "TransactionDate": "2023-02-08 22:00:00",
+        "Amount": 292.15,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 935,
+        "CustomerID": 3235,
+        "TransactionDate": "2023-02-08 23:00:00",
+        "Amount": 10.72,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 936,
+        "CustomerID": 2101,
+        "TransactionDate": "2023-02-09 00:00:00",
+        "Amount": 257.78,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 937,
+        "CustomerID": 1036,
+        "TransactionDate": "2023-02-09 01:00:00",
+        "Amount": 303.93,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 938,
+        "CustomerID": 3204,
+        "TransactionDate": "2023-02-09 02:00:00",
+        "Amount": 223.26,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 939,
+        "CustomerID": 4892,
+        "TransactionDate": "2023-02-09 03:00:00",
+        "Amount": 90.93,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 940,
+        "CustomerID": 4810,
+        "TransactionDate": "2023-02-09 04:00:00",
+        "Amount": 478.39,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 941,
+        "CustomerID": 3352,
+        "TransactionDate": "2023-02-09 05:00:00",
+        "Amount": 111.23,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 942,
+        "CustomerID": 3628,
+        "TransactionDate": "2023-02-09 06:00:00",
+        "Amount": 68.15,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 943,
+        "CustomerID": 2737,
+        "TransactionDate": "2023-02-09 07:00:00",
+        "Amount": 233.39,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 944,
+        "CustomerID": 4358,
+        "TransactionDate": "2023-02-09 08:00:00",
+        "Amount": 466.39,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 945,
+        "CustomerID": 3501,
+        "TransactionDate": "2023-02-09 09:00:00",
+        "Amount": 319.54,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 946,
+        "CustomerID": 3276,
+        "TransactionDate": "2023-02-09 10:00:00",
+        "Amount": 343.37,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 947,
+        "CustomerID": 4269,
+        "TransactionDate": "2023-02-09 11:00:00",
+        "Amount": 314.24,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 948,
+        "CustomerID": 1125,
+        "TransactionDate": "2023-02-09 12:00:00",
+        "Amount": 152.51,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 949,
+        "CustomerID": 4341,
+        "TransactionDate": "2023-02-09 13:00:00",
+        "Amount": 338.93,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 950,
+        "CustomerID": 4634,
+        "TransactionDate": "2023-02-09 14:00:00",
+        "Amount": 439.28,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 951,
+        "CustomerID": 2110,
+        "TransactionDate": "2023-02-09 15:00:00",
+        "Amount": 204.35,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 952,
+        "CustomerID": 1610,
+        "TransactionDate": "2023-02-09 16:00:00",
+        "Amount": 201.8,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 953,
+        "CustomerID": 3852,
+        "TransactionDate": "2023-02-09 17:00:00",
+        "Amount": 157.39,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 954,
+        "CustomerID": 2019,
+        "TransactionDate": "2023-02-09 18:00:00",
+        "Amount": 136.9,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 955,
+        "CustomerID": 1346,
+        "TransactionDate": "2023-02-09 19:00:00",
+        "Amount": 319.07,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 956,
+        "CustomerID": 4182,
+        "TransactionDate": "2023-02-09 20:00:00",
+        "Amount": 182.01,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 957,
+        "CustomerID": 2144,
+        "TransactionDate": "2023-02-09 21:00:00",
+        "Amount": 252.61,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 958,
+        "CustomerID": 3481,
+        "TransactionDate": "2023-02-09 22:00:00",
+        "Amount": 477.6,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 959,
+        "CustomerID": 4320,
+        "TransactionDate": "2023-02-09 23:00:00",
+        "Amount": 372.33,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 960,
+        "CustomerID": 2731,
+        "TransactionDate": "2023-02-10 00:00:00",
+        "Amount": 240.32,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 961,
+        "CustomerID": 3038,
+        "TransactionDate": "2023-02-10 01:00:00",
+        "Amount": 493.28,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 962,
+        "CustomerID": 3763,
+        "TransactionDate": "2023-02-10 02:00:00",
+        "Amount": 363.97,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 963,
+        "CustomerID": 3951,
+        "TransactionDate": "2023-02-10 03:00:00",
+        "Amount": 274.75,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 964,
+        "CustomerID": 4754,
+        "TransactionDate": "2023-02-10 04:00:00",
+        "Amount": 186.09,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 965,
+        "CustomerID": 2236,
+        "TransactionDate": "2023-02-10 05:00:00",
+        "Amount": 30.01,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 966,
+        "CustomerID": 2943,
+        "TransactionDate": "2023-02-10 06:00:00",
+        "Amount": 12.54,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 967,
+        "CustomerID": 4264,
+        "TransactionDate": "2023-02-10 07:00:00",
+        "Amount": 445.93,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 968,
+        "CustomerID": 4037,
+        "TransactionDate": "2023-02-10 08:00:00",
+        "Amount": 233.63,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 969,
+        "CustomerID": 4018,
+        "TransactionDate": "2023-02-10 09:00:00",
+        "Amount": 176.98,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 970,
+        "CustomerID": 4521,
+        "TransactionDate": "2023-02-10 10:00:00",
+        "Amount": 312.2,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 971,
+        "CustomerID": 3895,
+        "TransactionDate": "2023-02-10 11:00:00",
+        "Amount": 114.27,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 972,
+        "CustomerID": 1473,
+        "TransactionDate": "2023-02-10 12:00:00",
+        "Amount": 139.92,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 973,
+        "CustomerID": 4673,
+        "TransactionDate": "2023-02-10 13:00:00",
+        "Amount": 369.86,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 974,
+        "CustomerID": 2432,
+        "TransactionDate": "2023-02-10 14:00:00",
+        "Amount": 375.56,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 975,
+        "CustomerID": 3673,
+        "TransactionDate": "2023-02-10 15:00:00",
+        "Amount": 458.85,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 976,
+        "CustomerID": 1154,
+        "TransactionDate": "2023-02-10 16:00:00",
+        "Amount": 265.68,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 977,
+        "CustomerID": 2661,
+        "TransactionDate": "2023-02-10 17:00:00",
+        "Amount": 392.14,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 978,
+        "CustomerID": 4648,
+        "TransactionDate": "2023-02-10 18:00:00",
+        "Amount": 226.35,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 979,
+        "CustomerID": 2445,
+        "TransactionDate": "2023-02-10 19:00:00",
+        "Amount": 98.64,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 980,
+        "CustomerID": 3534,
+        "TransactionDate": "2023-02-10 20:00:00",
+        "Amount": 396.02,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 981,
+        "CustomerID": 2188,
+        "TransactionDate": "2023-02-10 21:00:00",
+        "Amount": 215.84,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 982,
+        "CustomerID": 2472,
+        "TransactionDate": "2023-02-10 22:00:00",
+        "Amount": 23.93,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 983,
+        "CustomerID": 3159,
+        "TransactionDate": "2023-02-10 23:00:00",
+        "Amount": 338.62,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 984,
+        "CustomerID": 1988,
+        "TransactionDate": "2023-02-11 00:00:00",
+        "Amount": 111.52,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 985,
+        "CustomerID": 3788,
+        "TransactionDate": "2023-02-11 01:00:00",
+        "Amount": 368.63,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 986,
+        "CustomerID": 4066,
+        "TransactionDate": "2023-02-11 02:00:00",
+        "Amount": 291.59,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 987,
+        "CustomerID": 3672,
+        "TransactionDate": "2023-02-11 03:00:00",
+        "Amount": 159.83,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 988,
+        "CustomerID": 2202,
+        "TransactionDate": "2023-02-11 04:00:00",
+        "Amount": 420.32,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 989,
+        "CustomerID": 3424,
+        "TransactionDate": "2023-02-11 05:00:00",
+        "Amount": 412.77,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 990,
+        "CustomerID": 3010,
+        "TransactionDate": "2023-02-11 06:00:00",
+        "Amount": 268.86,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 991,
+        "CustomerID": 4525,
+        "TransactionDate": "2023-02-11 07:00:00",
+        "Amount": 433.23,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 992,
+        "CustomerID": 4507,
+        "TransactionDate": "2023-02-11 08:00:00",
+        "Amount": 466.62,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 993,
+        "CustomerID": 1900,
+        "TransactionDate": "2023-02-11 09:00:00",
+        "Amount": 84.29,
+        "Category": "Health"
+    },
+    {
+        "TransactionID": 994,
+        "CustomerID": 1370,
+        "TransactionDate": "2023-02-11 10:00:00",
+        "Amount": 36.82,
+        "Category": "Electronics"
+    },
+    {
+        "TransactionID": 995,
+        "CustomerID": 4833,
+        "TransactionDate": "2023-02-11 11:00:00",
+        "Amount": 10.12,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 996,
+        "CustomerID": 1310,
+        "TransactionDate": "2023-02-11 12:00:00",
+        "Amount": 297.57,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 997,
+        "CustomerID": 2571,
+        "TransactionDate": "2023-02-11 13:00:00",
+        "Amount": 152.66,
+        "Category": "Clothing"
+    },
+    {
+        "TransactionID": 998,
+        "CustomerID": 2287,
+        "TransactionDate": "2023-02-11 14:00:00",
+        "Amount": 282.39,
+        "Category": "Groceries"
+    },
+    {
+        "TransactionID": 999,
+        "CustomerID": 3306,
+        "TransactionDate": "2023-02-11 15:00:00",
+        "Amount": 405.25,
+        "Category": "Electronics"
+    }
+]
